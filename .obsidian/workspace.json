@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "fd7879e7432344c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd99159f3170e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6585d5105fd1ca1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/docker/basics/Deleting Image and Container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da89b4e58373d08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c1fe83afcf1eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697d21bfe8a478a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "475528dc77afff54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cedc461729bea17e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c78d24569921f9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e7e182b2bf1d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82071ae047e24d98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev/docker/basics/Deleting Image and Container.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef3621bf9cfeef0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dev/docker/basics/Deleting Image and Container.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fb28b49f1e3387e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2904be8902e374bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dev/docker/basics/Deleting Image and Container.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "697d21bfe8a478a9",
+  "lastOpenFiles": [
+    "dev/docker/basics/Copy from or to a Container.md",
+    "dev/docker/basics/Assign Names and Tags to a Container.md",
+    "Archive/Attachment/Pasted image 20231211185902.png",
+    "Archive/Attachment/Pasted image 20231211213008.png",
+    "Archive/Attachment/Pasted image 20231211185747.png",
+    "Archive/Attachment/Pasted image 20231210154322.png",
+    "Archive/Attachment/Pasted image 20231210145207.png",
+    "Archive/Attachment",
+    "Archive",
+    "dev/javascript",
+    "dev/algorithms/The Big O Notation.md",
+    "dev/algorithms",
+    "dev/docker/basics/Interactive Mode.md",
+    "dev/docker/basics/Managing Containers.md",
+    "dev/docker/basics/Inspecting Images.md",
+    "dev/docker/basics/Docker File to Build an Image.md",
+    "dev/docker/basics/Docker Basics.md",
+    "dev/docker/basics/Deleting Image and Container.md",
+    "dev/docker/basics",
+    "dev/docker",
+    "dev"
+  ]
+}

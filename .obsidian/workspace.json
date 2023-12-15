@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd99159f3170e41",
+        "id": "2a28f289474bba9c",
         "type": "tabs",
         "children": [
           {
-            "id": "6585d5105fd1ca1f",
+            "id": "3af0a5d52b829cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/basics/Deleting Image and Container.md",
+                "file": "dev/docker/volumes/Understanding Volumes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/basics/Deleting Image and Container.md",
+                "file": "dev/docker/volumes/Understanding Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/basics/Deleting Image and Container.md",
+                "file": "dev/docker/volumes/Understanding Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/basics/Deleting Image and Container.md"
+                "file": "dev/docker/volumes/Understanding Volumes.md"
               }
             }
           }
@@ -146,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697d21bfe8a478a9",
+  "active": "3af0a5d52b829cbc",
   "lastOpenFiles": [
-    "dev/docker/basics/Copy from or to a Container.md",
+    "dev/docker/basics/Docker Basics.md",
+    "dev/docker/volumes/Understanding Volumes.md",
+    "dev/docker/volumes",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
+    "dev/docker/basics/Copy from or to a Container.md",
+    "dev/docker/basics/Sharing Images & Containers.md",
+    "Untitled.canvas",
+    "2023-12-12.md",
+    "dev/docker/basics/Managing Containers.md",
+    "dev/docker/basics/Docker File to Build an Image.md",
+    "dev/docker/basics/Deleting Image and Container.md",
     "Archive/Attachment/Pasted image 20231211185902.png",
     "Archive/Attachment/Pasted image 20231211213008.png",
     "Archive/Attachment/Pasted image 20231211185747.png",
@@ -161,11 +170,7 @@
     "dev/algorithms/The Big O Notation.md",
     "dev/algorithms",
     "dev/docker/basics/Interactive Mode.md",
-    "dev/docker/basics/Managing Containers.md",
     "dev/docker/basics/Inspecting Images.md",
-    "dev/docker/basics/Docker File to Build an Image.md",
-    "dev/docker/basics/Docker Basics.md",
-    "dev/docker/basics/Deleting Image and Container.md",
     "dev/docker/basics",
     "dev/docker",
     "dev"

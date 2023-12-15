@@ -39,6 +39,3 @@ To remove all images, including the tagged images:
 ```bash
 $ docker image prune -a
 ```
-
-
-

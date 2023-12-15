@@ -67,5 +67,15 @@ This creates a container of a Node environment and can start playing around with
 ## Assigning Names & Tags to a Container
 [[Assign Names and Tags to a Container]]
 
+## Sharing Images & Containers
+[[Sharing Images & Containers]]
 
 
+## Conclusion
+Docker is all about Images & Containers
+- Images are the templates / blueprints for Containers, multiple Containers can be created based on one Image.
+- Images are either downloaded (`docker pull`) or created with a `Dockerfile` and `docker build`.
+- Images contain multiple layers (1 instruction = 1 layer) to optimize build speed (caching!) and re-usability.
+- Containers are created with `docker run <image>` and can be configured with various options / flags
+- Containers can be listed (`docker ps`), removed (`docker rm`) and stopped + started (`docker stop / start`).
+- Images can also be listed (`docker images`), removed (`docker rmi`, `docker image prune`) and shared (`docker push / pull`).

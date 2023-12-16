@@ -48,7 +48,6 @@ This creates a container of a Node environment and can start playing around with
 ## Building an Image
 [[Docker file to build an image]]
 
-
 ## Managing Containers
 [[Managing Containers]]
 

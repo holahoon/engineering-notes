@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/volumes/Understanding Volumes.md",
+                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/volumes/Understanding Volumes.md",
+                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/volumes/Understanding Volumes.md",
+                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/volumes/Understanding Volumes.md"
+                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md"
               }
             }
           }
@@ -148,16 +148,24 @@
   },
   "active": "3af0a5d52b829cbc",
   "lastOpenFiles": [
+    "dev/docker/working with data management and volumes/volumes/Understanding Volumes.md",
+    "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
+    "dev/docker/basics/Docker File to Build an Image.md",
     "dev/docker/basics/Docker Basics.md",
-    "dev/docker/volumes/Understanding Volumes.md",
-    "dev/docker/volumes",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
+    "anonymous volume.md",
+    "dev/docker/working with data management and volumes/bind mounts/archives/Pasted image 20231215155146.png",
+    "dev/docker/working with data management and volumes/bind mounts/archives",
+    "dev/docker/working with data management and volumes",
+    "dev/docker/working with data management and volumes/bind mounts",
+    "dev/docker/working with data management and volumes/volumes/archives/Pasted image 20231215142841.png",
+    "dev/docker/working with data management and volumes/volumes/archives",
+    "dev/docker/working with data management and volumes/volumes",
     "dev/docker/basics/Copy from or to a Container.md",
     "dev/docker/basics/Sharing Images & Containers.md",
     "Untitled.canvas",
     "2023-12-12.md",
     "dev/docker/basics/Managing Containers.md",
-    "dev/docker/basics/Docker File to Build an Image.md",
     "dev/docker/basics/Deleting Image and Container.md",
     "Archive/Attachment/Pasted image 20231211185902.png",
     "Archive/Attachment/Pasted image 20231211213008.png",
@@ -171,8 +179,6 @@
     "dev/algorithms",
     "dev/docker/basics/Interactive Mode.md",
     "dev/docker/basics/Inspecting Images.md",
-    "dev/docker/basics",
-    "dev/docker",
-    "dev"
+    "dev/docker/basics"
   ]
 }

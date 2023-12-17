@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "950bd99e02a27900",
+        "id": "d2ccd82b6eb57cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "a17b6ccacc39338c",
+            "id": "63aaa213b09cdb5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
+                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
+                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
+                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md"
+                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md"
               }
             }
           }
@@ -146,26 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a17b6ccacc39338c",
+  "active": "63aaa213b09cdb5c",
   "lastOpenFiles": [
-    "dev/docker/working with dockeignore/Using dockerignore.md",
-    "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
-    "dev/docker/working with env and arg",
+    "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
+    "dev/docker/containers & networks/connecting containers",
+    "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
+    "dev/docker/containers & networks",
+    "dev/docker/managing data in images & containers",
+    "dev/docker/managing data in images & containers/working with dockeignore/Using dockerignore.md",
+    "dev/docker/managing data in images & containers/working with env and arg",
     "dev/docker/Untitled.md",
-    "dev/docker/working with dockeignore",
-    "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
-    "dev/docker/working with data management and volumes/volumes/Understanding Volumes.md",
+    "dev/docker/managing data in images & containers/working with dockeignore",
+    "dev/docker/managing data in images & containers/bind mounts/Bind mounts.md",
+    "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
     "dev/docker/basics/Docker File to Build an Image.md",
     "dev/docker/basics/Docker Basics.md",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
     "anonymous volume.md",
-    "dev/docker/working with data management and volumes/bind mounts/archives/Pasted image 20231215155146.png",
-    "dev/docker/working with data management and volumes/bind mounts/archives",
+    "dev/docker/managing data in images & containers/bind mounts/archives/Pasted image 20231215155146.png",
+    "dev/docker/managing data in images & containers/bind mounts/archives",
     "dev/docker/working with data management and volumes",
-    "dev/docker/working with data management and volumes/bind mounts",
-    "dev/docker/working with data management and volumes/volumes/archives/Pasted image 20231215142841.png",
-    "dev/docker/working with data management and volumes/volumes/archives",
-    "dev/docker/working with data management and volumes/volumes",
+    "dev/docker/managing data in images & containers/bind mounts",
+    "dev/docker/managing data in images & containers/volumes/archives/Pasted image 20231215142841.png",
+    "dev/docker/managing data in images & containers/volumes/archives",
+    "dev/docker/managing data in images & containers/volumes",
     "dev/docker/basics/Copy from or to a Container.md",
     "dev/docker/basics/Sharing Images & Containers.md",
     "Untitled.canvas",
@@ -177,9 +181,6 @@
     "Archive/Attachment/Pasted image 20231211185747.png",
     "Archive/Attachment/Pasted image 20231210154322.png",
     "Archive/Attachment/Pasted image 20231210145207.png",
-    "Archive/Attachment",
-    "Archive",
-    "dev/javascript",
     "dev/algorithms/The Big O Notation.md",
     "dev/docker/basics/Interactive Mode.md",
     "dev/docker/basics/Inspecting Images.md"

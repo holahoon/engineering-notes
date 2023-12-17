@@ -84,5 +84,4 @@ $ docker volume rm <VOL_NAME>
 $ docker volume prune
 ```
 
-
 ## [[Bind mounts]]

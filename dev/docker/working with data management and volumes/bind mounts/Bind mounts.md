@@ -99,3 +99,10 @@ $ docker run -p 3000:80 -d --rm --name feedback-app -v feedback:/app/feedback -v
 $ docker logs feedback-app
 ```
 Now, you'll be able to see either your `console.log` or `nodemon` messages.
+
+## Read-Only Volumes
+We can edit our source code in our host machine and changes will be reflected inside the container(bind mount). The idea is definitely not to allow container to be able to write to the `/app` (container) folder. The changes should only be reflected from our host machine file system, not from inside the container. The running application in the container should NOT change the host machine files.
+By default, volumes are read & write. So make the bind mount a read-only:
+```bash
+$ docker run ... $(pwd):/app:ro ...
+```

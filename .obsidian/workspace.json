@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a28f289474bba9c",
+        "id": "950bd99e02a27900",
         "type": "tabs",
         "children": [
           {
-            "id": "3af0a5d52b829cbc",
+            "id": "a17b6ccacc39338c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
+                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
+                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
+                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md"
+                "file": "dev/docker/working with env and arg/Working with ENVironment and ARGument.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3af0a5d52b829cbc",
+  "active": "a17b6ccacc39338c",
   "lastOpenFiles": [
-    "dev/docker/working with data management and volumes/volumes/Understanding Volumes.md",
+    "dev/docker/working with dockeignore/Using dockerignore.md",
+    "dev/docker/working with env and arg/Working with ENVironment and ARGument.md",
+    "dev/docker/working with env and arg",
+    "dev/docker/Untitled.md",
+    "dev/docker/working with dockeignore",
     "dev/docker/working with data management and volumes/bind mounts/Bind mounts.md",
+    "dev/docker/working with data management and volumes/volumes/Understanding Volumes.md",
     "dev/docker/basics/Docker File to Build an Image.md",
     "dev/docker/basics/Docker Basics.md",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
@@ -176,9 +181,7 @@
     "Archive",
     "dev/javascript",
     "dev/algorithms/The Big O Notation.md",
-    "dev/algorithms",
     "dev/docker/basics/Interactive Mode.md",
-    "dev/docker/basics/Inspecting Images.md",
-    "dev/docker/basics"
+    "dev/docker/basics/Inspecting Images.md"
   ]
 }

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ccd82b6eb57cf5",
+        "id": "9a95a32e9908787b",
         "type": "tabs",
         "children": [
           {
-            "id": "63aaa213b09cdb5c",
+            "id": "5341ffc5b48497ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dev/docker/containers & networks/connecting containers/Containers & External Networks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63aaa213b09cdb5c",
+  "active": "697d21bfe8a478a9",
   "lastOpenFiles": [
+    "dev/docker/setting up multiple containers",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
+    "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153546.png",
+    "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153624.png",
+    "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153607.png",
+    "dev/docker/containers & networks/connecting containers/archives",
     "dev/docker/containers & networks/connecting containers",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/docker/containers & networks",
@@ -169,7 +166,6 @@
     "dev/docker/managing data in images & containers/bind mounts",
     "dev/docker/managing data in images & containers/volumes/archives/Pasted image 20231215142841.png",
     "dev/docker/managing data in images & containers/volumes/archives",
-    "dev/docker/managing data in images & containers/volumes",
     "dev/docker/basics/Copy from or to a Container.md",
     "dev/docker/basics/Sharing Images & Containers.md",
     "Untitled.canvas",

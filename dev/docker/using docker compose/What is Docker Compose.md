@@ -1,0 +1,1 @@
+It automates multi-container setups

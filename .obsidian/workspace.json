@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
+                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
+                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
+                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md"
+                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ba161bbdb149b76",
+  "active": "697d21bfe8a478a9",
   "lastOpenFiles": [
+    "dev/svelte/sveltekit/server hooks",
+    "dev/svelte/sveltekit",
+    "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
+    "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
+    "dev/svelte",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives/Pasted image 20231220195153.png",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives",
     "dev/docker/executing commands within containers/what is \"utility container\"",
-    "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
     "dev/docker/executing commands within containers",
     "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/docker/using docker compose",
@@ -165,9 +169,7 @@
     "dev/docker/containers & networks",
     "dev/docker/managing data in images & containers",
     "dev/docker/managing data in images & containers/working with dockeignore/Using dockerignore.md",
-    "dev/docker/managing data in images & containers/working with env and arg",
     "dev/docker/Untitled.md",
-    "dev/docker/managing data in images & containers/working with dockeignore",
     "dev/docker/managing data in images & containers/bind mounts/Bind mounts.md",
     "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
     "dev/docker/basics/Docker File to Build an Image.md",
@@ -186,7 +188,6 @@
     "Archive/Attachment/Pasted image 20231211213008.png",
     "Archive/Attachment/Pasted image 20231211185747.png",
     "Archive/Attachment/Pasted image 20231210154322.png",
-    "Archive/Attachment/Pasted image 20231210145207.png",
     "dev/algorithms/The Big O Notation.md",
     "dev/docker/basics/Interactive Mode.md",
     "dev/docker/basics/Inspecting Images.md"

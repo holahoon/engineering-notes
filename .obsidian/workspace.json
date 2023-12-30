@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
+                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
+                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
+                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md"
+                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697d21bfe8a478a9",
+  "active": "0ba161bbdb149b76",
   "lastOpenFiles": [
+    "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
+    "dev/nextjs/best way to use react context/Best way to use React Context API.md",
+    "dev/nextjs/best way to use react context",
+    "dev/nextjs",
+    "dev/react",
     "dev/svelte/sveltekit/server hooks",
     "dev/svelte/sveltekit",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
     "dev/svelte",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives/Pasted image 20231220195153.png",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives",
@@ -163,11 +167,7 @@
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153546.png",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153624.png",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153607.png",
-    "dev/docker/containers & networks/connecting containers/archives",
-    "dev/docker/containers & networks/connecting containers",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
-    "dev/docker/containers & networks",
-    "dev/docker/managing data in images & containers",
     "dev/docker/managing data in images & containers/working with dockeignore/Using dockerignore.md",
     "dev/docker/Untitled.md",
     "dev/docker/managing data in images & containers/bind mounts/Bind mounts.md",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e002b6f13130f122",
+        "id": "6be057abff5fcc5f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba161bbdb149b76",
+            "id": "306100550a4cf356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md",
+                "file": "dev/svelte/bindings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md",
+                "file": "dev/svelte/bindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md",
+                "file": "dev/svelte/bindings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/nextjs/best way to use react context/Best way to use React Context API.md"
+                "file": "dev/svelte/bindings.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ba161bbdb149b76",
+  "active": "306100550a4cf356",
   "lastOpenFiles": [
-    "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
+    "dev/svelte/bindings.md",
     "dev/nextjs/best way to use react context/Best way to use React Context API.md",
+    "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
     "dev/nextjs/best way to use react context",
     "dev/nextjs",
     "dev/react",

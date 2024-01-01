@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/svelte/bindings.md",
+                "file": "dev/svelte/event dispatcher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/svelte/bindings.md",
+                "file": "dev/svelte/event dispatcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/svelte/bindings.md",
+                "file": "dev/svelte/event dispatcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/svelte/bindings.md"
+                "file": "dev/svelte/event dispatcher.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "306100550a4cf356",
   "lastOpenFiles": [
     "dev/svelte/bindings.md",
+    "dev/svelte/event dispatcher.md",
     "dev/nextjs/best way to use react context/Best way to use React Context API.md",
     "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
     "dev/nextjs/best way to use react context",

@@ -1,5 +1,5 @@
 Typically, data flows from top to bottom. If you pass an `input` state from one component to another and update it with a handler, it typically looks like:
-```svelte
+```vue
 <script lang="ts">
   import Input from './input.svelte'
   import Output from './output.svelte'
@@ -8,14 +8,14 @@ Typically, data flows from top to bottom. If you pass an `input` state from one 
 </script>
 
 <Input updateInput={(event) => input = event.target.value} />
-<Output {input} />
+	<Output {input} />
 </script>
 ```
 
 
 Using the `bind:property` directive, we can also let it flow the other way (child -> parent)
 `+page.svelte`
-```svelte
+```vue
 <script lang="ts">
   import Input from './input.svelte'
   import Output from './output.svelte'
@@ -28,7 +28,7 @@ Using the `bind:property` directive, we can also let it flow the other way (chil
 ```
 
 `input.svelte`
-```svelte
+```vue
 <script lang="ts">
   export let input: string
 </script>
@@ -37,7 +37,7 @@ Using the `bind:property` directive, we can also let it flow the other way (chil
 ```
 
 `output.svelte`
-```svelte
+```vue
 <script lang="ts">
   export let input: string
 </script>

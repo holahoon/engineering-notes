@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
+                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
+                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
+                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md"
+                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "306100550a4cf356",
   "lastOpenFiles": [
-    "dev/docker/using docker compose/What is Docker Compose.md",
+    "dev/docker/deploying docker container/amd64 and arm64 issue.md",
+    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
+    "dev/docker/deploying docker container/archives/Pasted image 20240110235855.png",
+    "dev/docker/deploying docker container/archives/Pasted image 20240110235743.png",
+    "dev/docker/deploying docker container/archives/Screenshot 2024-01-10 at 7.45.57 PM.png",
+    "dev/docker/deploying docker container/archives",
     "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
+    "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/docker/deploying docker container",
     "dev/svelte/context api.md",
     "dev/svelte/bindings.md",
@@ -166,7 +172,6 @@
     "dev/docker/executing commands within containers/what is \"utility container\"/archives/Pasted image 20231220195153.png",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives",
     "dev/docker/executing commands within containers/what is \"utility container\"",
-    "dev/docker/executing commands within containers",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153546.png",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153624.png",
@@ -189,11 +194,6 @@
     "dev/docker/basics/Managing Containers.md",
     "dev/docker/basics/Deleting Image and Container.md",
     "Archive/Attachment/Pasted image 20231211185902.png",
-    "Archive/Attachment/Pasted image 20231211213008.png",
-    "Archive/Attachment/Pasted image 20231211185747.png",
-    "Archive/Attachment/Pasted image 20231210154322.png",
-    "dev/algorithms/The Big O Notation.md",
-    "dev/docker/basics/Interactive Mode.md",
-    "dev/docker/basics/Inspecting Images.md"
+    "dev/algorithms/The Big O Notation.md"
   ]
 }

@@ -148,6 +148,10 @@
   },
   "active": "306100550a4cf356",
   "lastOpenFiles": [
+    "dev/docker/deploying docker container/archives/Pasted image 20240111114357.png",
+    "dev/docker/deploying docker container/archives/Pasted image 20240111114230.png",
+    "dev/docker/deploying docker container/archives/Pasted image 20240111114153.png",
+    "dev/docker/deploying docker container/archives/Pasted image 20240111114126.png",
     "dev/docker/deploying docker container/amd64 and arm64 issue.md",
     "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235855.png",
@@ -185,15 +189,11 @@
     "dev/docker/basics/Docker Basics.md",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
     "anonymous volume.md",
-    "dev/docker/managing data in images & containers/bind mounts/archives/Pasted image 20231215155146.png",
-    "dev/docker/managing data in images & containers/volumes/archives/Pasted image 20231215142841.png",
     "dev/docker/basics/Copy from or to a Container.md",
     "dev/docker/basics/Sharing Images & Containers.md",
     "Untitled.canvas",
     "2023-12-12.md",
     "dev/docker/basics/Managing Containers.md",
-    "dev/docker/basics/Deleting Image and Container.md",
-    "Archive/Attachment/Pasted image 20231211185902.png",
-    "dev/algorithms/The Big O Notation.md"
+    "dev/docker/basics/Deleting Image and Container.md"
   ]
 }

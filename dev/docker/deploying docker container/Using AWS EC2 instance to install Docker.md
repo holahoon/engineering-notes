@@ -62,17 +62,36 @@ Let's start building an image:
 $ docker build -t <image-name> .
 ```
 
-Take a look at this issue: [[amd64 and arm64 issue]]
+🤔 Wait! have a take a look at this issue: [[amd64 and arm64 issue]]
 
-The local built image must be the same name as the one on Docker Hub(i.e. `holahoon/udemy-docker-example`). If the names are different, we can always change the name:
+The local built image must be the same name as the one on Docker Hub(i.e. `holahoon/udemy-docker-example1`). If the names are different, we can always change the name:
 ```bash
 $ docker tag <local-image-name> <docker-hub-image-name>
 ```
 
-Then we can push the image to Docker Hub (i.e. `holahoon/udemy-docker-example`):
+Then we can push the image to Docker Hub (i.e. `holahoon/udemy-docker-example1`):
 ```bash
  $ docker push holahoon/udemy-docker-example
 ```
 
+We can now run an image that we pushed to Docker Hub:
+```bash
+# SSH terminal
+$ docker run -d --rm -p 80:80 holahoon/udemy-docker-example1
+```
+This runs an `holahoon/udemy-docker-example1` image exposing port 80!.
+
+## Configure Security Group to expose all required ports to WWW
+
+We need to configure on AWS EC2 the security protocols.
+Go to the running EC2 instance and take a look at Security tab:
+![[Pasted image 20240111114126.png]]
+![[Pasted image 20240111114153.png]]
+This shows that we are using the `launch-wizrd-3`. So if we go in there, we need to set the inbound rules that exposes the HTTP connection (type: HTTP) from anywhere in the world (Anywhere-IPv4).
+![[Pasted image 20240111114230.png]]
+This will allow us to visit the public IPv4 and we can see our server up and running.
+![[Pasted image 20240111114357.png]]
+
+Up to here, we have successfully pushed our built docker image to Docker Hub, have the container running in our AWS EC2 instance. With docker, we didn't have to install Node environment in EC2 instance 👏.
 
 

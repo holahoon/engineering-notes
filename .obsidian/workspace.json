@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/svelte/bindings.md",
+                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/svelte/bindings.md",
+                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/svelte/bindings.md",
+                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/svelte/bindings.md"
+                "file": "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697d21bfe8a478a9",
+  "active": "306100550a4cf356",
   "lastOpenFiles": [
+    "dev/docker/using docker compose/What is Docker Compose.md",
+    "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
+    "dev/docker/deploying docker container",
     "dev/svelte/context api.md",
-    "dev/svelte/event dispatcher.md",
     "dev/svelte/bindings.md",
+    "dev/svelte/event dispatcher.md",
     "dev/nextjs/best way to use react context/Best way to use React Context API.md",
     "dev/svelte/sveltekit/server hooks/How to extend Locals interface.md",
     "dev/nextjs/best way to use react context",
@@ -164,8 +167,6 @@
     "dev/docker/executing commands within containers/what is \"utility container\"/archives",
     "dev/docker/executing commands within containers/what is \"utility container\"",
     "dev/docker/executing commands within containers",
-    "dev/docker/using docker compose/What is Docker Compose.md",
-    "dev/docker/using docker compose",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153546.png",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153624.png",

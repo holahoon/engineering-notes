@@ -93,5 +93,3 @@ This will allow us to visit the public IPv4 and we can see our server up and run
 ![[Pasted image 20240111114357.png]]
 
 Up to here, we have successfully pushed our built docker image to Docker Hub, have the container running in our AWS EC2 instance. With docker, we didn't have to install Node environment in EC2 instance 👏.
-
-

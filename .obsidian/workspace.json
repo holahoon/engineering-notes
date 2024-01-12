@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
+                "file": "dev/docker/multi-stage build/multi-stage build with React application.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
+                "file": "dev/docker/multi-stage build/multi-stage build with React application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
+                "file": "dev/docker/multi-stage build/multi-stage build with React application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md"
+                "file": "dev/docker/multi-stage build/multi-stage build with React application.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "306100550a4cf356",
   "lastOpenFiles": [
+    "dev/svelte/sveltekit/SvelteKit Design Pattern.md",
+    "dev/docker/multi-stage build/multi-stage build with React application.md",
+    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
+    "dev/docker/multi-stage build",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114357.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114230.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114153.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114126.png",
     "dev/docker/deploying docker container/amd64 and arm64 issue.md",
-    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235855.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235743.png",
     "dev/docker/deploying docker container/archives/Screenshot 2024-01-10 at 7.45.57 PM.png",
@@ -175,11 +178,9 @@
     "dev/svelte",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives/Pasted image 20231220195153.png",
     "dev/docker/executing commands within containers/what is \"utility container\"/archives",
-    "dev/docker/executing commands within containers/what is \"utility container\"",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153546.png",
     "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153624.png",
-    "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153607.png",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/docker/managing data in images & containers/working with dockeignore/Using dockerignore.md",
     "dev/docker/Untitled.md",
@@ -193,7 +194,6 @@
     "dev/docker/basics/Sharing Images & Containers.md",
     "Untitled.canvas",
     "2023-12-12.md",
-    "dev/docker/basics/Managing Containers.md",
-    "dev/docker/basics/Deleting Image and Container.md"
+    "dev/docker/basics/Managing Containers.md"
   ]
 }

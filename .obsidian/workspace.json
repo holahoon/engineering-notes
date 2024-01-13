@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6be057abff5fcc5f",
+        "id": "5fca2c7fddc5695c",
         "type": "tabs",
         "children": [
           {
-            "id": "306100550a4cf356",
+            "id": "0b91444f857aa540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/multi-stage build/multi-stage build with React application.md",
+                "file": "dev/k8s/core concepts/k8s & testing environment setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/multi-stage build/multi-stage build with React application.md",
+                "file": "dev/k8s/core concepts/k8s & testing environment setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/multi-stage build/multi-stage build with React application.md",
+                "file": "dev/k8s/core concepts/k8s & testing environment setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/multi-stage build/multi-stage build with React application.md"
+                "file": "dev/k8s/core concepts/k8s & testing environment setup.md"
               }
             }
           }
@@ -146,10 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "306100550a4cf356",
+  "active": "0b91444f857aa540",
   "lastOpenFiles": [
-    "dev/svelte/sveltekit/SvelteKit Design Pattern.md",
+    "dev/k8s/core concepts/working with k8s objects.md",
+    "dev/k8s/core concepts/k8s & testing environment setup.md",
+    "dev/k8s/Untitled.md",
+    "dev/k8s/core concepts",
+    "dev/k8s/basics",
+    "dev/k8s/basics/basics.md",
+    "dev/k8s/archives/Pasted image 20240112211519.png",
+    "dev/k8s/archives/Pasted image 20240112210233.png",
+    "dev/k8s/archives/Pasted image 20240112210207.png",
+    "dev/k8s/archives/Pasted image 20240112202937.png",
+    "dev/k8s/archives",
+    "dev/docker/basics/Assign Names and Tags to a Container.md",
+    "dev/docker/basics/Interactive Mode.md",
     "dev/docker/multi-stage build/multi-stage build with React application.md",
+    "dev/k8s",
+    "dev/svelte/sveltekit/SvelteKit Design Pattern.md",
     "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
     "dev/docker/multi-stage build",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114357.png",
@@ -159,7 +173,6 @@
     "dev/docker/deploying docker container/amd64 and arm64 issue.md",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235855.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235743.png",
-    "dev/docker/deploying docker container/archives/Screenshot 2024-01-10 at 7.45.57 PM.png",
     "dev/docker/deploying docker container/archives",
     "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
     "dev/docker/using docker compose/What is Docker Compose.md",
@@ -172,15 +185,8 @@
     "dev/nextjs/best way to use react context",
     "dev/nextjs",
     "dev/react",
-    "dev/svelte/sveltekit/server hooks",
-    "dev/svelte/sveltekit",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/svelte",
-    "dev/docker/executing commands within containers/what is \"utility container\"/archives/Pasted image 20231220195153.png",
-    "dev/docker/executing commands within containers/what is \"utility container\"/archives",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
-    "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153546.png",
-    "dev/docker/containers & networks/connecting containers/archives/Pasted image 20231217153624.png",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/docker/managing data in images & containers/working with dockeignore/Using dockerignore.md",
     "dev/docker/Untitled.md",
@@ -188,12 +194,6 @@
     "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
     "dev/docker/basics/Docker File to Build an Image.md",
     "dev/docker/basics/Docker Basics.md",
-    "dev/docker/basics/Assign Names and Tags to a Container.md",
-    "anonymous volume.md",
-    "dev/docker/basics/Copy from or to a Container.md",
-    "dev/docker/basics/Sharing Images & Containers.md",
-    "Untitled.canvas",
-    "2023-12-12.md",
-    "dev/docker/basics/Managing Containers.md"
+    "Untitled.canvas"
   ]
 }

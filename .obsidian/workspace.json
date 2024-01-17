@@ -148,8 +148,12 @@
   },
   "active": "0b91444f857aa540",
   "lastOpenFiles": [
-    "dev/k8s/core concepts/k8s & testing environment setup.md",
+    "dev/k8s/core concepts/Untitled.md",
     "dev/k8s/core concepts/working with k8s objects.md",
+    "dev/docker/deploying docker container/amd64 and arm64 issue.md",
+    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
+    "dev/docker/multi-stage build/multi-stage build with React application.md",
+    "dev/k8s/core concepts/k8s & testing environment setup.md",
     "dev/k8s/Untitled.md",
     "dev/k8s/core concepts",
     "dev/k8s/basics",
@@ -161,16 +165,13 @@
     "dev/k8s/archives",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
     "dev/docker/basics/Interactive Mode.md",
-    "dev/docker/multi-stage build/multi-stage build with React application.md",
     "dev/k8s",
     "dev/svelte/sveltekit/SvelteKit Design Pattern.md",
-    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
     "dev/docker/multi-stage build",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114357.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114230.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114153.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114126.png",
-    "dev/docker/deploying docker container/amd64 and arm64 issue.md",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235855.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240110235743.png",
     "dev/docker/deploying docker container/archives",
@@ -193,7 +194,6 @@
     "dev/docker/managing data in images & containers/bind mounts/Bind mounts.md",
     "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
     "dev/docker/basics/Docker File to Build an Image.md",
-    "dev/docker/basics/Docker Basics.md",
     "Untitled.canvas"
   ]
 }

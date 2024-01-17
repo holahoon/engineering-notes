@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/k8s/core concepts/k8s & testing environment setup.md",
+                "file": "dev/k8s/core concepts/working with k8s objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/k8s/core concepts/k8s & testing environment setup.md",
+                "file": "dev/k8s/core concepts/working with k8s objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/k8s/core concepts/k8s & testing environment setup.md",
+                "file": "dev/k8s/core concepts/working with k8s objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/k8s/core concepts/k8s & testing environment setup.md"
+                "file": "dev/k8s/core concepts/working with k8s objects.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "0b91444f857aa540",
   "lastOpenFiles": [
-    "dev/k8s/core concepts/working with k8s objects.md",
     "dev/k8s/core concepts/k8s & testing environment setup.md",
+    "dev/k8s/core concepts/working with k8s objects.md",
     "dev/k8s/Untitled.md",
     "dev/k8s/core concepts",
     "dev/k8s/basics",

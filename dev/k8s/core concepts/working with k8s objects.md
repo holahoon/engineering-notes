@@ -24,38 +24,3 @@ Controls (multiple) Pods.
 Deployments manage a Pods for you, you can also create multiple Deployments.
 You therefore typically don't directly control Pods, instead you use Deployments to set up the desired end state.
 
-## Using `Deployment` to run commands
-
-Use `kubectl` to send instructions to k8s cluster from our local machine.
-
-Create a Deployment object:
-```bash
-$ kubectl create ...
-```
-This is the imperative approach.
-
-Create deployment:
-```bash
-$ kubectl create deployment <name> --image=<image-name>
-```
-- `<name>`: we can give the deployment a name, (i.e. `first-app`)
-- `--image=<image-name>`: image needs to be pushed to Docker Hub(if using Docker as a driver) (i.e. `--image=holahoon/k8s-first-app`)
-
-We can now check:
-```bash
-# check for deployments
-$ kubectl get deployments
-
-# check for pods
-$ kubectl get pods
-```
-
-We can also check the cluster:
-```bash
-$ minikube dashboard
-```
-It will open up a dashboard cluster where you can see Deployments, Pods and etc...
-
-
-
-

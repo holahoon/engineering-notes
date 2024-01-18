@@ -10,3 +10,11 @@ $ docker build --platform=linux/amd64 -t <image-name> .
 ```
 ![[Pasted image 20240110235855.png]]
 I created a new repository, and notice how it uses `linux/amd64`.
+
+### Using docker file
+
+We can simply just add a command in our docker file:
+```dockerfile
+FROM --platform=linux/amd64 node:14-alpine
+```
+This will tell Docker to use `linux/amd64`.

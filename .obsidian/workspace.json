@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/k8s/core concepts/working with k8s objects.md",
+                "file": "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/k8s/core concepts/working with k8s objects.md",
+                "file": "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/k8s/core concepts/working with k8s objects.md",
+                "file": "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/k8s/core concepts/working with k8s objects.md"
+                "file": "dev/k8s/core concepts/imperative approach vs. declarative approach.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "0b91444f857aa540",
   "lastOpenFiles": [
-    "dev/k8s/core concepts/Untitled.md",
+    "dev/k8s/core concepts/imperative way of working with k8s.md",
+    "dev/k8s/core concepts/declarative way of working with k8s.md",
+    "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
     "dev/k8s/core concepts/working with k8s objects.md",
     "dev/docker/deploying docker container/amd64 and arm64 issue.md",
     "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
@@ -192,8 +194,6 @@
     "dev/docker/managing data in images & containers/working with dockeignore/Using dockerignore.md",
     "dev/docker/Untitled.md",
     "dev/docker/managing data in images & containers/bind mounts/Bind mounts.md",
-    "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
-    "dev/docker/basics/Docker File to Build an Image.md",
     "Untitled.canvas"
   ]
 }

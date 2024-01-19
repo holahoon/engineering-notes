@@ -5,7 +5,7 @@ Managed by you (myself)
 - Can be shared across containers.
 - Can be re-used for same container (across restarts).
 
-Whenever an image is built and container is ran, when changing code in files in my local environment will NOT automatically get reflected to the running container. It would require to rebuild an entire image and run containers.
+Whenever an image is built and container is ran, when changing code files in my local environment will NOT automatically get reflected to the running container. It would require to rebuild an entire image and run containers.
 This is pretty cumbersome.
 
 Binding mounts are great for persistent, editable(by you) data (e.g. source code).

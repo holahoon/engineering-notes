@@ -23,4 +23,3 @@ Controls (multiple) Pods.
 - Deployments can be scaled dynamically (and automatically). You can change the number of desired Pods as needed.
 Deployments manage a Pods for you, you can also create multiple Deployments.
 You therefore typically don't directly control Pods, instead you use Deployments to set up the desired end state.
-

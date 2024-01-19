@@ -119,6 +119,3 @@ $ docker-compose down
 When the service is down, it **automatically removes** the container (`--rm`)
 This does not delete volumes. In order to remove volumes, add `-v` flag.
 
-
-
-

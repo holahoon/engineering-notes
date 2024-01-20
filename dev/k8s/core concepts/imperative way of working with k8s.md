@@ -205,6 +205,7 @@ This will go to the revision 1 status Deployment.
 
 ## Delete `Deployment` and `Service`
 
+We can delete `Deployment` or `Service` by name:
 ```bash
 $ kubectl delete service <deploynment-name>
 $ kubectl delete deployment <deploynment-name>

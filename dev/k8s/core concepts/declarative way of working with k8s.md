@@ -108,10 +108,139 @@ $ kubectl delete -f=deployment.yaml
 ```
 We are NOT deleting the actual file, but deleting the resources created based on that file.
 
-If want to delete multiple resources:
+To delete multiple resources:
 ```bash
 $ kubectl delete -f=deployment.yaml,service.yaml
 # or
 $ kubectl delete -f=deployment.yaml -f=service.yaml
 ```
 
+## Merge Resources
+
+We can have one single config file that handles both `Deployment` and `Services`.
+
+`master-deployment.yaml`
+```yaml
+---
+apiVersion: v1
+kind: Service
+metadata:
+	name: backend
+
+spec:
+	selector:
+		app: second-app
+	ports:
+		- protocol: 'TCP'
+		  port: 80
+		  targetPort: 8080
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+	name: second-app-deployment
+	
+# specification of the Deployment
+spec:
+	replicas: 1
+	
+	selector:
+		matchLabels:
+			app: second-app
+			tier: backend
+			
+	template:
+		metadata:
+		labels:
+			app: second-app
+			tier: backend
+			
+		# specification of individual Pod
+		spec:
+		containers:
+			- name: second-node
+			  image: holahoon/k8s-first-app
+```
+
+Each config is separated by `---` which tells yaml file that it is a brand new object starts.
+😎 Note that when combining a `Deployment` and `Service` in one file, it is a good practice to put `Service` first because `Service` has a `selector`, it dynamically add any `Pods` which are created thereafter.
+
+We can delete the existing Deployment and Service and let's try to run apply:
+```bash
+# delete existing deployment and service yaml
+$ kubectl delete -f=deployment.yaml -f=service.yaml
+
+# apply
+$ kubectl apply -f=master-deployment.yaml
+```
+
+## More Information on Labels & Selectors
+
+With using `Selectors`, you can only select by `labels`.
+Instead of using `matchLabels`, we can also use `matchExpressions`. There's more [documentation about this](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/).
+
+We can have more control over the labels:
+```yaml
+...deployment
+	selector:
+		matchExpressions:
+			-{key: app, operator: In, values: [second-app, first-app]}
+...
+```
+This allows us to select labels with key `app`, that has values in `second-app`, `first-app`.
+
+### We can also use delete by selector
+
+We need to give the object a label a key, value pair. In this case, the key is going to be `group` and `example` as value.
+
+`deployment.yaml`
+```yaml
+...
+metadata:
+	name: second-app-deployment
+	labels:
+		group: example
+...
+```
+`service.yaml`
+```yaml
+...
+metadata:
+	name: backend
+	labels:
+		group: example
+...
+```
+
+```bash
+$ kubectl delete deployment,services -l group=example
+```
+The command deletes `Deployment` and `Service` with selectors with key of `group` and value of `example`.
+
+## Using The Latest Docker Image
+
+We can tell k8s to use the latest image from Docker Hub:
+`deployment.yaml`
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+	name: second-app-deployment
+...
+
+spec:
+	...
+	template:
+		metadata:
+			...
+		spec:
+			containers:
+				- name: second-node
+				  image: holahoon/some-image:2
+				  imagePullPolicy: Always
+```
+
+Even if we made changes to in our code and pushed the image to Docker Hub, and instead of updating the tag, if we still use the same tag(`holahoon/some-image:2`), k8s will not pull the image again.
+But, with `imagePullPolicy` set to `Always`, it WILL always pull the latest image from Docker Hub.
+[Documentation](https://kubernetes.io/docs/concepts/containers/images/#image-pull-policy)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff3dd631317397c",
+        "id": "ebe92b5a9840b6d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b858677c543184be",
+            "id": "4de13d6d1584aaf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/using docker compose/What is Docker Compose.md",
+                "file": "dev/k8s/managing data and volumes/1. volumes/persistent volumes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/using docker compose/What is Docker Compose.md",
+                "file": "dev/k8s/managing data and volumes/1. volumes/persistent volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/using docker compose/What is Docker Compose.md",
+                "file": "dev/k8s/managing data and volumes/1. volumes/persistent volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/using docker compose/What is Docker Compose.md"
+                "file": "dev/k8s/managing data and volumes/1. volumes/persistent volumes.md"
               }
             }
           }
@@ -146,38 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b858677c543184be",
+  "active": "4de13d6d1584aaf2",
   "lastOpenFiles": [
+    "dev/k8s/managing data and volumes/1. volumes/hostPath volume.md",
+    "dev/k8s/managing data and volumes/1. volumes/persistent volumes.md",
+    "dev/k8s/managing data and volumes/1. volumes/emptyDir volume.md",
+    "dev/k8s/managing data and volumes/1. volumes/1. volumes.md",
+    "dev/k8s/managing data and volumes/1. volumes/CSI volume.md",
+    "dev/k8s/managing data and volumes/1. volumes/working with an example.md",
+    "dev/k8s/managing data and volumes/1. volumes",
+    "dev/docker/using docker compose/What is Docker Compose.md",
+    "dev/k8s/managing data and volumes/2. persistent volumes & persistent volume claims.md",
+    "dev/k8s/managing data and volumes/3. environment variables.md",
+    "dev/k8s/core concepts/declarative way of working with k8s.md",
+    "dev/k8s/managing data and volumes",
+    "dev/k8s/core concepts/k8s core concepts & architecture.md",
+    "dev/k8s/core concepts/Liveness Probes.md",
+    "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
+    "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
+    "dev/docker/basics/Managing Containers.md",
+    "dev/docker/basics/Deleting Image and Container.md",
+    "dev/docker/basics/Copy from or to a Container.md",
+    "dev/docker/basics/Assign Names and Tags to a Container.md",
+    "dev/k8s/core concepts/imperative way of working with k8s.md",
+    "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
+    "dev/k8s/core concepts/merge.md",
     "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
     "dev/docker/multi-stage build/multi-stage build with React application.md",
     "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
-    "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
     "dev/docker/managing data in images & containers/bind mounts/Bind mounts.md",
-    "dev/k8s/core concepts/working with k8s objects.md",
-    "dev/k8s/core concepts/declarative way of working with k8s.md",
-    "dev/docker/basics/Docker Basics.md",
-    "dev/docker/basics/Sharing Images & Containers.md",
-    "dev/docker/basics/Copy from or to a Container.md",
-    "Deployment.md",
-    "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
-    "dev/k8s/core concepts/imperative way of working with k8s.md",
-    "dev/docker/deploying docker container/amd64 and arm64 issue.md",
-    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
-    "dev/k8s/core concepts/k8s & testing environment setup.md",
-    "dev/k8s/Untitled.md",
     "dev/k8s/core concepts",
     "dev/k8s/basics",
-    "dev/k8s/basics/basics.md",
     "dev/k8s/archives/Pasted image 20240112211519.png",
     "dev/k8s/archives/Pasted image 20240112210233.png",
     "dev/k8s/archives/Pasted image 20240112210207.png",
     "dev/k8s/archives/Pasted image 20240112202937.png",
     "dev/k8s/archives",
-    "dev/docker/basics/Assign Names and Tags to a Container.md",
-    "dev/docker/basics/Interactive Mode.md",
     "dev/k8s",
-    "dev/svelte/sveltekit/SvelteKit Design Pattern.md",
     "dev/docker/multi-stage build",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114357.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114230.png",
@@ -187,13 +193,7 @@
     "dev/docker/deploying docker container/archives/Pasted image 20240110235743.png",
     "dev/docker/deploying docker container/archives",
     "dev/docker/deploying docker container",
-    "dev/svelte/context api.md",
-    "dev/svelte/bindings.md",
-    "dev/svelte/event dispatcher.md",
-    "dev/nextjs/best way to use react context/Best way to use React Context API.md",
     "dev/nextjs/best way to use react context",
-    "dev/nextjs",
-    "dev/react",
     "Untitled.canvas"
   ]
 }

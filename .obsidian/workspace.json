@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "268a1d7a95967ce2",
+        "id": "869b02a63711a7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fa2847cf4db596",
+            "id": "b54284666c08be11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/k8s/managing data and volumes/environment variables.md",
+                "file": "dev/k8s/networking/multiple Deployments.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/k8s/managing data and volumes/environment variables.md",
+                "file": "dev/k8s/networking/multiple Deployments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/k8s/managing data and volumes/environment variables.md",
+                "file": "dev/k8s/networking/multiple Deployments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/k8s/managing data and volumes/environment variables.md"
+                "file": "dev/k8s/networking/multiple Deployments.md"
               }
             }
           }
@@ -146,12 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697d21bfe8a478a9",
+  "active": "b54284666c08be11",
   "lastOpenFiles": [
+    "dev/k8s/networking/multiple containers in one Pod.md",
+    "dev/k8s/networking/multiple Deployments.md",
+    "dev/k8s/networking/_example source code.md",
+    "dev/k8s/networking/archives/Pasted image 20240121151955.png",
+    "dev/k8s/networking/archives/Pasted image 20240121151907.png",
+    "dev/k8s/networking/archives/Pasted image 20240121150827.png",
+    "dev/k8s/networking/archives/Pasted image 20240121142533.png",
+    "dev/k8s/side notes/apply from a different directory.md",
+    "dev/k8s/networking/archives",
+    "dev/k8s/networking",
+    "dev/k8s/core concepts/declarative way of working with k8s.md",
+    "dev/k8s/side notes",
+    "dev/k8s/managing data and volumes/environment variables.md",
     "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/k8s/basics/basics.md",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/k8s/managing data and volumes/environment variables.md",
     "dev/k8s/managing data and volumes/emptyDir volume.md",
     "dev/k8s/managing data and volumes/persistent volumes.md",
     "dev/k8s/managing data and volumes/working with an example.md",
@@ -161,7 +173,6 @@
     "dev/k8s/managing data and volumes/hostPath volume.md",
     "dev/k8s/managing data and volumes/CSI volume.md",
     "dev/k8s/managing data and volumes/1. volumes",
-    "dev/k8s/core concepts/declarative way of working with k8s.md",
     "dev/k8s/managing data and volumes",
     "dev/k8s/core concepts/k8s core concepts & architecture.md",
     "dev/k8s/core concepts/Liveness Probes.md",
@@ -171,11 +182,6 @@
     "dev/docker/basics/Deleting Image and Container.md",
     "dev/docker/basics/Copy from or to a Container.md",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
-    "dev/k8s/core concepts/imperative way of working with k8s.md",
-    "dev/k8s/core concepts/imperative approach vs. declarative approach.md",
-    "dev/k8s/core concepts/merge.md",
-    "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
-    "dev/docker/multi-stage build/multi-stage build with React application.md",
     "dev/k8s/core concepts",
     "dev/k8s/basics",
     "dev/k8s/archives/Pasted image 20240112211519.png",
@@ -187,13 +193,6 @@
     "dev/docker/multi-stage build",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114357.png",
     "dev/docker/deploying docker container/archives/Pasted image 20240111114230.png",
-    "dev/docker/deploying docker container/archives/Pasted image 20240111114153.png",
-    "dev/docker/deploying docker container/archives/Pasted image 20240111114126.png",
-    "dev/docker/deploying docker container/archives/Pasted image 20240110235855.png",
-    "dev/docker/deploying docker container/archives/Pasted image 20240110235743.png",
-    "dev/docker/deploying docker container/archives",
-    "dev/docker/deploying docker container",
-    "dev/nextjs/best way to use react context",
     "Untitled.canvas"
   ]
 }

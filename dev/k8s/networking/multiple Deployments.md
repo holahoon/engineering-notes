@@ -1,7 +1,9 @@
 What if we want to have a Pod to Pod communication?
 We are now going to have a separate `Auth-api` Pod which is NOT going to be public-facing, should be Cluster internal, and it should it be reachable by both the `Users-api` and `Tasks-api`.
 
+from
 ![[Pasted image 20240121151907.png]]
+to
 ![[Pasted image 20240121151955.png]]
 
 Take a look at the example project code [[_example source code]]
@@ -88,24 +90,38 @@ We need a Service for the `Auth-api` because the `Auth-api` Pod could restart du
 Since Services have a stable IP address, we need to have a Service even for a Pod that is not exposed publicly.
 - `ClusterIP`: Does some automatic load balancing by k8s, but it is not exposed to the outside world.
 
-## Network between Pods via IP address and Env Variables
-
-The challenge now is to figure out what IP address the `auth-service` provides. We can try to apply the `auth-service.yaml` config and run `kubectl get services` and acquire `CLUSTER-IP` which is the IP address to be used within the Cluster.
-
-So we can do this manually by running:
+We can run:
 ```bash
-$ kubectl -f ./k8s/auth-service.yaml
-$ kubectl get servies
-
-NAME                      TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)          AGE
-auth-deployment-service   ClusterIP      10.105.195.80   <none>        80/TCP           6s
-kubernetes                ClusterIP      10.96.0.1       <none>        443/TCP          7d20h
-story-service             LoadBalancer   10.103.87.76    <pending>     80:30902/TCP     47h
-users-service             LoadBalancer   10.108.61.225   <pending>     8080:30275/TCP   114m
+$ kubectl apply -f ./k8s/auth-deployment.yaml
+$ kubectl apply -f ./k8s/users-deployment.yaml
+$ kubectl apply -f ./k8s/auth-service.yaml
+$ kubectl apply -f ./k8s/users-service.yaml
 ```
 
-Well, this is annoying, but it at least is stable and won't change.
-#### There's a BETTER WAY 🙃
+```bash
+$ kubectl get deployments
+NAME               READY   UP-TO-DATE   AVAILABLE   AGE
+auth-deployment    1/1     1            1           6m24s
+users-deployment   1/1     1            1           3s
+```
 
+```bash
+$ kubectl get services
+NAME            TYPE           CLUSTER-IP       EXTERNAL-IP   PORT(S)          AGE
+auth-service    ClusterIP      10.98.39.51      <none>        80/TCP           6m55s
+kubernetes      ClusterIP      10.96.0.1        <none>        443/TCP          8d
+users-service   LoadBalancer   10.105.215.152   <pending>     8080:30436/TCP   6m20s
+```
+
+We can see that we have a total of two Pods and two Services connected to the Pod.
+
+btw, make sure to delete and re-apply if Docker image have been newly changed and pushed:
+```bash
+$ kubectl delete deploy <deployment-name>
+$ kubectl delete service <service-name>
+```
+
+We can continue to look at more examples on how to connect multiple Pods:
+[[network between Pods]]
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/k8s/networking/multiple Deployments.md",
+                "file": "dev/k8s/networking/network between Pods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/k8s/networking/multiple Deployments.md",
+                "file": "dev/k8s/networking/network between Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/k8s/networking/multiple Deployments.md",
+                "file": "dev/k8s/networking/network between Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/k8s/networking/multiple Deployments.md"
+                "file": "dev/k8s/networking/network between Pods.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "b54284666c08be11",
   "lastOpenFiles": [
-    "dev/k8s/networking/multiple containers in one Pod.md",
+    "dev/k8s/managing data and volumes/persistent volumes.md",
+    "dev/k8s/managing data and volumes/working with an example.md",
+    "dev/k8s/managing data and volumes/emptyDir volume.md",
+    "dev/k8s/managing data and volumes/1. volumes.md",
+    "dev/k8s/managing data and volumes/CSI volume.md",
+    "dev/k8s/managing data and volumes/hostPath volume.md",
+    "dev/k8s/networking/network between Pods.md",
     "dev/k8s/networking/multiple Deployments.md",
+    "dev/k8s/networking/multiple containers in one Pod.md",
     "dev/k8s/networking/_example source code.md",
     "dev/k8s/networking/archives/Pasted image 20240121151955.png",
     "dev/k8s/networking/archives/Pasted image 20240121151907.png",
@@ -164,14 +171,8 @@
     "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/k8s/basics/basics.md",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/k8s/managing data and volumes/emptyDir volume.md",
-    "dev/k8s/managing data and volumes/persistent volumes.md",
-    "dev/k8s/managing data and volumes/working with an example.md",
-    "dev/k8s/managing data and volumes/1. volumes.md",
     "dev/k8s/managing data and volumes/3. environment variables.md",
     "dev/k8s/managing data and volumes/2. persistent volumes & persistent volume claims.md",
-    "dev/k8s/managing data and volumes/hostPath volume.md",
-    "dev/k8s/managing data and volumes/CSI volume.md",
     "dev/k8s/managing data and volumes/1. volumes",
     "dev/k8s/managing data and volumes",
     "dev/k8s/core concepts/k8s core concepts & architecture.md",

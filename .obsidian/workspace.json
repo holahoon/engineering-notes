@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/k8s/networking/network between Pods.md",
+                "file": "dev/k8s/networking/reverse proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/k8s/networking/network between Pods.md",
+                "file": "dev/k8s/networking/reverse proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/k8s/networking/network between Pods.md",
+                "file": "dev/k8s/networking/reverse proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/k8s/networking/network between Pods.md"
+                "file": "dev/k8s/networking/reverse proxy.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "b54284666c08be11",
   "lastOpenFiles": [
+    "dev/k8s/networking/network between Pods.md",
+    "dev/k8s/networking/reverse proxy.md",
+    "dev/k8s/networking/multiple Deployments.md",
+    "dev/k8s/networking/_example source code.md",
     "dev/k8s/managing data and volumes/persistent volumes.md",
     "dev/k8s/managing data and volumes/working with an example.md",
     "dev/k8s/managing data and volumes/emptyDir volume.md",
     "dev/k8s/managing data and volumes/1. volumes.md",
     "dev/k8s/managing data and volumes/CSI volume.md",
     "dev/k8s/managing data and volumes/hostPath volume.md",
-    "dev/k8s/networking/network between Pods.md",
-    "dev/k8s/networking/multiple Deployments.md",
     "dev/k8s/networking/multiple containers in one Pod.md",
-    "dev/k8s/networking/_example source code.md",
     "dev/k8s/networking/archives/Pasted image 20240121151955.png",
     "dev/k8s/networking/archives/Pasted image 20240121151907.png",
     "dev/k8s/networking/archives/Pasted image 20240121150827.png",
@@ -182,7 +183,6 @@
     "dev/docker/basics/Managing Containers.md",
     "dev/docker/basics/Deleting Image and Container.md",
     "dev/docker/basics/Copy from or to a Container.md",
-    "dev/docker/basics/Assign Names and Tags to a Container.md",
     "dev/k8s/core concepts",
     "dev/k8s/basics",
     "dev/k8s/archives/Pasted image 20240112211519.png",

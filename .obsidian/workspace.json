@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/docker/addgroup and adduser/Add user and group using Alpine.md",
+                "file": "dev/docker/using docker compose/docker compose watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/docker/addgroup and adduser/Add user and group using Alpine.md",
+                "file": "dev/docker/using docker compose/docker compose watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/docker/addgroup and adduser/Add user and group using Alpine.md",
+                "file": "dev/docker/using docker compose/docker compose watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/docker/addgroup and adduser/Add user and group using Alpine.md"
+                "file": "dev/docker/using docker compose/docker compose watch.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "24512319f883ef03",
   "lastOpenFiles": [
+    "dev/docker/using docker compose/What is Docker Compose.md",
+    "dev/docker/using docker compose/docker compose watch.md",
     "dev/docker/addgroup and adduser/Add user and group using Alpine.md",
     "dev/docker/addgroup and adduser",
     "dev/k8s/networking/reverse proxy.md",
@@ -172,7 +174,6 @@
     "dev/k8s/core concepts/declarative way of working with k8s.md",
     "dev/k8s/side notes",
     "dev/k8s/managing data and volumes/environment variables.md",
-    "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/k8s/basics/basics.md",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
     "dev/k8s/managing data and volumes/3. environment variables.md",
@@ -184,7 +185,6 @@
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
     "dev/docker/basics/Managing Containers.md",
-    "dev/docker/basics/Deleting Image and Container.md",
     "dev/k8s/core concepts",
     "dev/k8s/basics",
     "dev/k8s/archives/Pasted image 20240112211519.png",

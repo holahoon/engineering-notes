@@ -7,7 +7,7 @@ Here's a quick demo on how to change the root user by creating user and group:
 ```dockerfile
 FROM node:21-alpine
 
-RUN addgroup -S appgroup && adduser -S -G appuser appgroup
+RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 
 USER appuser
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0165fcec73572e",
+        "id": "5a2ee145a6102903",
         "type": "tabs",
         "children": [
           {
-            "id": "0470fc9b5d49f163",
+            "id": "71f1593d5c4c3e07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/06. EC2 Spot Instance Requests.md",
+                "file": "dev/aws/certified solutions architect associate/EC2/basics/01. EC2 Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/06. EC2 Spot Instance Requests.md",
+                "file": "dev/aws/certified solutions architect associate/EC2/basics/01. EC2 Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/06. EC2 Spot Instance Requests.md",
+                "file": "dev/aws/certified solutions architect associate/EC2/basics/01. EC2 Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/06. EC2 Spot Instance Requests.md"
+                "file": "dev/aws/certified solutions architect associate/EC2/basics/01. EC2 Basics.md"
               }
             }
           }
@@ -146,28 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0470fc9b5d49f163",
+  "active": "71f1593d5c4c3e07",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/EC2/01. EC2 Basics.md",
-    "dev/aws/certified solutions architect associate/EC2/03. SSH Overview.md",
-    "dev/aws/certified solutions architect associate/EC2/04. Get Started with EC2 Instance.md",
-    "dev/aws/certified solutions architect associate/EC2/05. EC2 Instances Purchasing Options.md",
-    "dev/aws/certified solutions architect associate/EC2/06. EC2 Spot Instance Requests.md",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208181202.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208181129.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/01. EC2 Basics.md",
+    "dev/aws/certified solutions architect associate/EC2/basics/06. EC2 Spot Instance Requests.md",
+    "dev/aws/certified solutions architect associate/EC2/basics",
+    "dev/aws/certified solutions architect associate/EC2/basics/03. SSH Overview.md",
+    "dev/aws/certified solutions architect associate/EC2/basics/04. Get Started with EC2 Instance.md",
+    "dev/aws/certified solutions architect associate/EC2/basics/05. EC2 Instances Purchasing Options.md",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208181202.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208181129.png",
     "EC2 Spot Instance Requests.md",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208180712.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208175735.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208175129.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208180712.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208175735.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208175129.png",
     "dev/aws/certified solutions architect associate/IAM/02. Using AWS CLI.md",
     "dev/aws/certified solutions architect associate/IAM/01. IAM basics.md",
-    "dev/aws/certified solutions architect associate/EC2/02. Security Groups.md",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208172326.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208152225.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208151736.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208145719.png",
-    "dev/aws/certified solutions architect associate/EC2/archives/Pasted image 20240208145139.png",
-    "dev/aws/certified solutions architect associate/EC2/archives",
+    "dev/aws/certified solutions architect associate/EC2/basics/02. Security Groups.md",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208172326.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208152225.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208151736.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208145719.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208145139.png",
+    "dev/aws/certified solutions architect associate/EC2/basics/archives",
     "dev/aws/certified solutions architect associate/misc/AWS Budget Configurations.md",
     "dev/aws/certified solutions architect associate/misc/archives",
     "dev/aws/certified solutions architect associate/misc",
@@ -184,7 +185,6 @@
     "dev/docker/addgroup and adduser/Add user and group using Alpine.md",
     "dev/docker/addgroup and adduser",
     "dev/k8s/networking/reverse proxy.md",
-    "dev/k8s/AWS deployment",
     "dev/k8s/networking/network between Pods.md",
     "dev/k8s/networking/multiple Deployments.md",
     "dev/k8s/networking/_example source code.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
+                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
+                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
+                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md"
+                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md"
               }
             }
           }
@@ -148,24 +148,32 @@
   },
   "active": "79dc87f540585aaa",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210230255.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210224635.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210224535.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Auto Scaling Group (ASG).md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215835.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215637.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215425.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215241.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Connection Draining.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210214438.png",
+    "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/ElastiCache.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150932.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150820.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150618.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145628.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS & Aurora Security.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145557.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145346.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145116.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211144910.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211143813.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Backups & Monitoring.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211143247.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Aurora.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Overview.md",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - SSL & TLS.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210194908.png",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210194105.png",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Sticky Ssessions.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Application Load Balancer (v2).md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Auto Scaling Group (ASG).md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Connection Draining.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Cross Zone Load Balancing.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210193055.png",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Gateway Load Balancer.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Network Load Balancer (v2).md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Load Balancing.md",
@@ -180,20 +188,12 @@
     "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Multi-Attach.md",
     "dev/aws/certified solutions architect associate/EC2/instance storage/AMI Overview.md",
     "dev/aws/certified solutions architect associate/EC2/instance storage/EBS vs EFS.md",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EFS - Elastic File System.md",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Eyncrpytion.md",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Volume.md",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/EC2 Hibernate.md",
     "dev/aws/certified solutions architect associate/EC2/ebs volume types",
     "dev/aws/certified solutions architect associate/EC2/instance store/archives",
     "dev/aws/certified solutions architect associate/EC2/instance store",
     "dev/aws/certified solutions architect associate/EC2/AMI/archives",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Snapshots.md",
     "dev/aws/certified solutions architect associate/EC2/AMI",
     "dev/aws/certified solutions architect associate/EC2/snapshots/archives",
-    "dev/aws/certified solutions architect associate/EC2/snapshots",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/archives",
-    "dev/aws/certified solutions architect associate/misc/Untitled.md",
     "Untitled.canvas"
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f02a579b368ecb29",
+        "id": "1409f306e0f2c8ce",
         "type": "tabs",
         "children": [
           {
-            "id": "71c4729a18b92026",
+            "id": "79dc87f540585aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/hibernate/EC2 Hibernate.md",
+                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/hibernate/EC2 Hibernate.md",
+                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/hibernate/EC2 Hibernate.md",
+                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/EC2/hibernate/EC2 Hibernate.md"
+                "file": "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md"
               }
             }
           }
@@ -146,53 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697d21bfe8a478a9",
+  "active": "79dc87f540585aaa",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/EC2/elastic network interfaces (ENI)/Elastic Network Interfaces (ENI).md",
-    "dev/aws/certified solutions architect associate/EC2/placement groups/Placement Groups.md",
-    "dev/aws/certified solutions architect associate/EC2/hibernate/EC2 Hibernate.md",
-    "dev/aws/certified solutions architect associate/EC2/hibernate/archives/Pasted image 20240209222815.png",
-    "dev/aws/certified solutions architect associate/EC2/hibernate/archives/Pasted image 20240209222317.png",
-    "dev/aws/certified solutions architect associate/EC2/hibernate/archives/Pasted image 20240209222214.png",
-    "dev/aws/certified solutions architect associate/EC2/hibernate/archives/Pasted image 20240209221343.png",
-    "dev/aws/certified solutions architect associate/EC2/hibernate/archives",
-    "dev/aws/certified solutions architect associate/EC2/hibernate",
-    "dev/aws/certified solutions architect associate/EC2/elastic network interfaces (ENI)/archives/Pasted image 20240209211131.png",
-    "dev/aws/certified solutions architect associate/EC2/elastic network interfaces (ENI)/archives",
-    "dev/aws/certified solutions architect associate/EC2/elastic network interfaces (ENI)",
-    "dev/aws/certified solutions architect associate/EC2/placement groups/archives/Pasted image 20240209205936.png",
-    "dev/aws/certified solutions architect associate/EC2/placement groups/archives/Pasted image 20240209205237.png",
-    "dev/aws/certified solutions architect associate/EC2/placement groups/archives/Pasted image 20240209204639.png",
-    "dev/aws/certified solutions architect associate/EC2/placement groups/archives",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210230255.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210224635.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210224535.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Auto Scaling Group (ASG).md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215835.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215637.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215425.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210215241.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Connection Draining.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210214438.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - SSL & TLS.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210194908.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210194105.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Sticky Ssessions.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Application Load Balancer (v2).md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Cross Zone Load Balancing.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives/Pasted image 20240210193055.png",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Gateway Load Balancer.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Network Load Balancer (v2).md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Load Balancing.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Scalability & High Availability.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Volume Types.md",
+    "dev/aws/certified solutions architect associate/EC2/scalability & high availability",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EC2 Instance Store.md",
     "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/Private & Public IP & Elastic IP.md",
-    "dev/aws/certified solutions architect associate/EC2/placement groups",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/archives/Pasted image 20240209193519.png",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/archives",
+    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/Elastic Network Interfaces (ENI).md",
+    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/Placement Groups.md",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Multi-Attach.md",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/AMI Overview.md",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS vs EFS.md",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EFS - Elastic File System.md",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Eyncrpytion.md",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Volume.md",
+    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/EC2 Hibernate.md",
+    "dev/aws/certified solutions architect associate/EC2/ebs volume types",
+    "dev/aws/certified solutions architect associate/EC2/instance store/archives",
+    "dev/aws/certified solutions architect associate/EC2/instance store",
+    "dev/aws/certified solutions architect associate/EC2/AMI/archives",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Snapshots.md",
+    "dev/aws/certified solutions architect associate/EC2/AMI",
+    "dev/aws/certified solutions architect associate/EC2/snapshots/archives",
+    "dev/aws/certified solutions architect associate/EC2/snapshots",
+    "dev/aws/certified solutions architect associate/EC2/instance storage/archives",
     "dev/aws/certified solutions architect associate/misc/Untitled.md",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level",
-    "dev/aws/certified solutions architect associate/EC2/Untitled.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/01. EC2 Basics.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/06. EC2 Spot Instance Requests.md",
-    "dev/aws/certified solutions architect associate/EC2/basics",
-    "dev/aws/certified solutions architect associate/EC2/basics/03. SSH Overview.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/04. Get Started with EC2 Instance.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/05. EC2 Instances Purchasing Options.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/archives/Pasted image 20240208181202.png",
-    "EC2 Spot Instance Requests.md",
-    "dev/aws/certified solutions architect associate/IAM/02. Using AWS CLI.md",
-    "dev/aws/certified solutions architect associate/IAM/01. IAM basics.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/02. Security Groups.md",
-    "dev/aws/certified solutions architect associate/EC2/basics/archives",
-    "dev/aws/certified solutions architect associate/misc/AWS Budget Configurations.md",
-    "dev/aws/certified solutions architect associate/Untitled.md",
-    "dev/docker/using docker compose/docker compose watch.md",
-    "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/docker/multi-stage build/multi-stage build with React application.md",
-    "dev/docker/using docker compose/What is Docker Compose.md",
-    "dev/docker/addgroup and adduser/Add user and group using Alpine.md",
-    "dev/k8s/networking/reverse proxy.md",
-    "dev/k8s/networking/network between Pods.md",
-    "dev/k8s/networking/multiple Deployments.md",
     "Untitled.canvas"
   ]
 }

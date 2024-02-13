@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1409f306e0f2c8ce",
+        "id": "ed25247fa9e18d86",
         "type": "tabs",
         "children": [
           {
-            "id": "79dc87f540585aaa",
+            "id": "4ab38fed3fb98f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
+                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
+                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
+                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md"
+                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md"
               }
             }
           }
@@ -146,23 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79dc87f540585aaa",
+  "active": "4ab38fed3fb98f89",
   "lastOpenFiles": [
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212195307.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212195250.png",
+    "dev/aws/certified solutions architect associate/Route 53/DNS.md",
+    "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212194213.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212192913.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212192820.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives",
+    "dev/database/relational database/Tables Overview.md",
+    "dev/aws/certified solutions architect associate/Route 53",
+    "dev/database/relational database/Database Structure Overview.md",
+    "dev/database/relational database/archives/Pasted image 20240211202324.png",
+    "dev/database/relational database/archives/Pasted image 20240211202244.png",
+    "dev/database/relational database/archives/Pasted image 20240211201932.png",
+    "Untitled.md",
+    "dev/database/relational database/archives/Pasted image 20240211201522.png",
+    "dev/database/relational database/archives/Pasted image 20240211201458.png",
+    "dev/database/relational database/archives",
+    "dev/database/relational database/tables overview",
+    "dev/database/relational database",
+    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
+    "dev/database",
     "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/ElastiCache.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150932.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150820.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150618.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145628.png",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS & Aurora Security.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145557.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145346.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211145116.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211144910.png",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211143813.png",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Backups & Monitoring.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211143247.png",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Aurora.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Overview.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives",
@@ -182,18 +194,6 @@
     "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Volume Types.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability",
     "dev/aws/certified solutions architect associate/EC2/instance storage/EC2 Instance Store.md",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/Private & Public IP & Elastic IP.md",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/Elastic Network Interfaces (ENI).md",
-    "dev/aws/certified solutions architect associate/EC2/solutions architect associate level/Placement Groups.md",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Multi-Attach.md",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/AMI Overview.md",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS vs EFS.md",
-    "dev/aws/certified solutions architect associate/EC2/ebs volume types",
-    "dev/aws/certified solutions architect associate/EC2/instance store/archives",
-    "dev/aws/certified solutions architect associate/EC2/instance store",
-    "dev/aws/certified solutions architect associate/EC2/AMI/archives",
-    "dev/aws/certified solutions architect associate/EC2/AMI",
-    "dev/aws/certified solutions architect associate/EC2/snapshots/archives",
     "Untitled.canvas"
   ]
 }

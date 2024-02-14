@@ -33,6 +33,7 @@
 	- Control how traffic is routed for a domain
 
 ## Hosted Zones
+A **Hosted Zone** in AWS Route 53 is essentially a container that holds information about how you want to route traffic on the internet for a specific domain, such as example.com. Each hosted zone is associated with a set of DNS records, which control the flow of traffic for that domain. AWS Route 53 automatically creates a record set that includes a name server (NS) record and a start of authority (SOA) record when you create a hosted zone. These records provide necessary information about your domain to the DNS system, establishing the basis for routing traffic for that domain to the appropriate IP address in your AWS environment.
 
 - A container for records that define how to route traffic to a domain and its subdomains
 - **Public Hosted Zones** – contains records that specify how to route traffic on the Internet (public domain names) `application1.mypublicdomain.com`
@@ -44,7 +45,12 @@
 ### Public Hosted Zone
 
 ![[Pasted image 20240212195250.png]]
-
+It can answer any public queries from the clients (anywhere in the internet).
 ### Private Hosted Zone
 
 ![[Pasted image 20240212195307.png]]
+Only queried within the private resources (i.e. VPC).
+
+
+
+

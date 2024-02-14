@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
+                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
+                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
+                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md"
+                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md"
               }
             }
           }
@@ -148,23 +148,27 @@
   },
   "active": "4ab38fed3fb98f89",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212195307.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212195250.png",
-    "dev/aws/certified solutions architect associate/Route 53/DNS.md",
     "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212194213.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212192913.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240212192820.png",
+    "dev/aws/certified solutions architect associate/Route 53/Health Checks.md",
+    "dev/aws/certified solutions architect associate/Route 53/Routing Policies.md",
+    "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214165223.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214165220.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214165152.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214164618.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214163554.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214154316.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214154113.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214153118.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214152350.png",
+    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214145748.png",
+    "dev/aws/certified solutions architect associate/Route 53/CNAME vs Alias.md",
+    "dev/aws/certified solutions architect associate/Route 53/DNS.md",
     "dev/aws/certified solutions architect associate/Route 53/archives",
     "dev/database/relational database/Tables Overview.md",
     "dev/aws/certified solutions architect associate/Route 53",
     "dev/database/relational database/Database Structure Overview.md",
-    "dev/database/relational database/archives/Pasted image 20240211202324.png",
-    "dev/database/relational database/archives/Pasted image 20240211202244.png",
-    "dev/database/relational database/archives/Pasted image 20240211201932.png",
     "Untitled.md",
-    "dev/database/relational database/archives/Pasted image 20240211201522.png",
-    "dev/database/relational database/archives/Pasted image 20240211201458.png",
     "dev/database/relational database/archives",
     "dev/database/relational database/tables overview",
     "dev/database/relational database",
@@ -172,7 +176,6 @@
     "dev/database",
     "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/ElastiCache.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives/Pasted image 20240211150932.png",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS & Aurora Security.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Backups & Monitoring.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Aurora.md",
@@ -188,12 +191,8 @@
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Cross Zone Load Balancing.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Gateway Load Balancer.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Network Load Balancer (v2).md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Load Balancing.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Scalability & High Availability.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EBS Volume Types.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability",
-    "dev/aws/certified solutions architect associate/EC2/instance storage/EC2 Instance Store.md",
     "Untitled.canvas"
   ]
 }

@@ -1,3 +1,4 @@
+AWS Route 53 is a scalable and highly available domain name system (DNS) service designed to give developers and businesses an extremely reliable and cost-effective way to route users to Internet applications. This DNS service effectively connects user requests to infrastructure running in Amazon Web Services (AWS) – such as an Amazon EC2 instance, an Amazon Elastic Load Balancer, or an Amazon S3 bucket – and can also be used to route users to infrastructure outside of AWS. Route 53 conceals the complexities of the underlying DNS protocol, offering developers an easy-to-use and cost-effective domain registration service. It features domain transfer capabilities, DNS failover, health checks, and customizable TTLs.
 
 - A highly available, scalable, fully managed and Authoritative DNS  
 	- Authoritative = the customer (you) can update the DNS records
@@ -51,6 +52,16 @@ It can answer any public queries from the clients (anywhere in the internet).
 ![[Pasted image 20240212195307.png]]
 Only queried within the private resources (i.e. VPC).
 
+## Records TTL (Time To Live)
 
+![[Pasted image 20240214140103.png]]
+TTL is saying "hey cache the result you got from Route 53 DNS for like 300 seconds". Then the client is going to cache the result for 300 seconds. Therefore, client will NOT issue a query to the DNS system because the answer has been cached and still within the cache period (TTL). Client can just access the web server with the current cached result.
 
-
+- **High TTL – e.g., 24 hr**
+	- Less traffic on Route 53
+	- Possibly outdated records
+- **Low TTL – e.g., 60 sec**.
+    - More traffic on Route 53 (more $)
+    - Records are outdated for less time
+    - Easy to change records
+- Except for Alias records, TTL is mandatory for each DNS record

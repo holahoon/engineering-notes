@@ -11,8 +11,12 @@
             "id": "d6da5f35594f2933",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dev/database/SQL/designing database schema/Building a Schema.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dev/database/SQL/designing database schema/Building a Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dev/database/SQL/designing database schema/Building a Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dev/database/SQL/designing database schema/Building a Schema.md"
+              }
             }
           }
         ]
@@ -140,6 +148,15 @@
   },
   "active": "d6da5f35594f2933",
   "lastOpenFiles": [
+    "dev/database/SQL/designing database schema/archives/Pasted image 20240214225140.png",
+    "dev/database/SQL/designing database schema/Database Schema.md",
+    "dev/database/SQL/designing database schema/Building a Schema.md",
+    "dev/database/SQL/designing database schema/archives/Pasted image 20240214223855.png",
+    "dev/database/SQL/designing database schema/archives/Pasted image 20240214223628.png",
+    "dev/database/SQL/designing database schema/archives/Pasted image 20240214223458.png",
+    "dev/database/SQL/designing database schema/archives/Pasted image 20240214223410.png",
+    "dev/database/SQL/designing database schema/archives",
+    "dev/database/SQL/designing database schema",
     "dev/database/SQL/SQL sorting and filtering data/SELECT DISTINCT Clause.md",
     "dev/database/SQL/SQL sorting and filtering data/Where clause.md",
     "dev/database/SQL/SQL sorting and filtering data/ORDER BY clause.md",
@@ -159,10 +176,6 @@
     "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214164618.png",
     "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214163554.png",
     "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214154316.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214154113.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214153118.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214152350.png",
-    "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214145748.png",
     "dev/aws/certified solutions architect associate/Route 53/CNAME vs Alias.md",
     "dev/aws/certified solutions architect associate/Route 53/DNS.md",
     "dev/aws/certified solutions architect associate/Route 53/archives",
@@ -174,18 +187,13 @@
     "dev/database/relational database/tables overview",
     "dev/database/relational database",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
-    "dev/database",
     "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/ElastiCache.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS & Aurora Security.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Backups & Monitoring.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Aurora.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Overview.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - SSL & TLS.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Sticky Ssessions.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Application Load Balancer (v2).md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
     "Untitled.canvas"
   ]
 }

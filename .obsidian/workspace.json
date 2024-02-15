@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
+                "file": "dev/database/SQL/SQL Comparison Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
+                "file": "dev/database/SQL/SQL Comparison Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
+                "file": "dev/database/SQL/SQL Comparison Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md"
+                "file": "dev/database/SQL/SQL Comparison Operators.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "4ab38fed3fb98f89",
   "lastOpenFiles": [
+    "dev/database/SQL/SQL Arithmetic Operators.md",
+    "dev/database/SQL/SQL Comparison Operators.md",
+    "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
+    "dev/database/SQL",
+    "dev/database/SQL.md",
     "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
     "dev/aws/certified solutions architect associate/Route 53/Health Checks.md",
     "dev/aws/certified solutions architect associate/Route 53/Routing Policies.md",
-    "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
     "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214165223.png",
     "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214165220.png",
     "dev/aws/certified solutions architect associate/Route 53/archives/Pasted image 20240214165152.png",
@@ -189,10 +193,7 @@
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Auto Scaling Group (ASG).md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Connection Draining.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Cross Zone Load Balancing.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Gateway Load Balancer.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Network Load Balancer (v2).md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability",
     "Untitled.canvas"
   ]
 }

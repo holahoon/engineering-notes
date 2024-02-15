@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed25247fa9e18d86",
+        "id": "7cd77703cdd3512b",
         "type": "tabs",
         "children": [
           {
-            "id": "4ab38fed3fb98f89",
+            "id": "d6da5f35594f2933",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev/database/SQL/SQL Comparison Operators.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/SQL Comparison Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/SQL Comparison Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dev/database/SQL/SQL Comparison Operators.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ab38fed3fb98f89",
+  "active": "d6da5f35594f2933",
   "lastOpenFiles": [
-    "dev/database/SQL/SQL Arithmetic Operators.md",
-    "dev/database/SQL/SQL Comparison Operators.md",
+    "dev/database/SQL/SQL sorting and filtering data/SELECT DISTINCT Clause.md",
+    "dev/database/SQL/SQL sorting and filtering data/Where clause.md",
+    "dev/database/SQL/SQL sorting and filtering data/ORDER BY clause.md",
+    "dev/database/SQL/SQL sorting and filtering data",
+    "dev/database/SQL/SQL operators",
+    "dev/database/SQL/SQL operators/SQL Comparison Operators.md",
+    "dev/database/SQL/SQL operators/SQL Arithmetic Operators.md",
     "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
     "dev/database/SQL",
     "dev/database/SQL.md",
@@ -186,14 +183,9 @@
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Overview.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/archives",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - SSL & TLS.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Sticky Ssessions.md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Application Load Balancer (v2).md",
     "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ASG - Dynamic Scaling Policies.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Auto Scaling Group (ASG).md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/Connection Draining.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/ELB - Cross Zone Load Balancing.md",
-    "dev/aws/certified solutions architect associate/EC2/scalability & high availability/archives",
     "Untitled.canvas"
   ]
 }

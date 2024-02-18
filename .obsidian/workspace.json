@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd77703cdd3512b",
+        "id": "0495a0b91572d224",
         "type": "tabs",
         "children": [
           {
-            "id": "d6da5f35594f2933",
+            "id": "70e71e15fba15f0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev/database/SQL/designing database schema/Building a Schema.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/designing database schema/Building a Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/designing database schema/Building a Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dev/database/SQL/designing database schema/Building a Schema.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,10 @@
   },
   "active": "697d21bfe8a478a9",
   "lastOpenFiles": [
+    "dev/aws/certified solutions architect associate/S3",
+    "dev/aws/certified solutions architect associate/Untitled.md",
+    "dev/aws/certified solutions architect associate/classic solution architecture",
+    "dev/database/SQL/designing database schema/Building a Schema.md",
     "dev/database/SQL/designing database schema/Primary Key.md",
     "dev/database/SQL/SQL operators/SQL Arithmetic Operators.md",
     "dev/database/SQL/SQL operators/SQL Comparison Operators.md",
@@ -166,7 +162,6 @@
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215095906.png",
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215095746.png",
     "dev/database/SQL/designing database schema/Database Schema.md",
-    "dev/database/SQL/designing database schema/Building a Schema.md",
     "dev/database/SQL/designing database schema/archives/Pasted image 20240214225140.png",
     "dev/database/SQL/designing database schema/archives",
     "dev/database/SQL/designing database schema",
@@ -187,12 +182,10 @@
     "Untitled.md",
     "dev/database/relational database/archives",
     "dev/database/relational database/tables overview",
-    "dev/database/relational database",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
     "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/ElastiCache.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS & Aurora Security.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/Backups & Monitoring.md",
     "Untitled.canvas"
   ]
 }

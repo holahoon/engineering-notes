@@ -11,8 +11,12 @@
             "id": "70e71e15fba15f0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md"
+              }
             }
           }
         ]
@@ -138,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697d21bfe8a478a9",
+  "active": "70e71e15fba15f0b",
   "lastOpenFiles": [
+    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212538.png",
+    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212457.png",
+    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212438.png",
+    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212331.png",
+    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212314.png",
+    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212108.png",
+    "dev/aws/certified solutions architect associate/S3/archives",
+    "dev/aws/certified solutions architect associate/S3/S3 Overview.md",
+    "dev/aws/certified solutions architect associate/S3/S3 Security.md",
     "dev/aws/certified solutions architect associate/S3",
     "dev/aws/certified solutions architect associate/Untitled.md",
     "dev/aws/certified solutions architect associate/classic solution architecture",
@@ -157,12 +174,7 @@
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215141856.png",
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215104117.png",
     "dev/database/SQL/designing database schema/Relational Database Schema.md",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215095957.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215095931.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215095906.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215095746.png",
     "dev/database/SQL/designing database schema/Database Schema.md",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240214225140.png",
     "dev/database/SQL/designing database schema/archives",
     "dev/database/SQL/designing database schema",
     "dev/database/SQL/SQL sorting and filtering data",
@@ -180,12 +192,8 @@
     "dev/aws/certified solutions architect associate/Route 53",
     "dev/database/relational database/Database Structure Overview.md",
     "Untitled.md",
-    "dev/database/relational database/archives",
-    "dev/database/relational database/tables overview",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
     "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/ElastiCache.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS & Aurora Security.md",
     "Untitled.canvas"
   ]
 }

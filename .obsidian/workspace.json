@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md",
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md",
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md",
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Security.md"
+                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "70e71e15fba15f0b",
   "lastOpenFiles": [
+    "dev/aws/certified solutions architect associate/S3/S3 Static Website Hosting.md",
+    "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
+    "dev/database/relational database/Database Structure Overview.md",
+    "dev/database/relational database/Tables Overview.md",
+    "dev/aws/certified solutions architect associate/S3/S3 Security.md",
     "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212538.png",
     "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212457.png",
     "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212438.png",
@@ -156,7 +161,6 @@
     "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212108.png",
     "dev/aws/certified solutions architect associate/S3/archives",
     "dev/aws/certified solutions architect associate/S3/S3 Overview.md",
-    "dev/aws/certified solutions architect associate/S3/S3 Security.md",
     "dev/aws/certified solutions architect associate/S3",
     "dev/aws/certified solutions architect associate/Untitled.md",
     "dev/aws/certified solutions architect associate/classic solution architecture",
@@ -172,7 +176,6 @@
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215144220.png",
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215143857.png",
     "dev/database/SQL/designing database schema/archives/Pasted image 20240215141856.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215104117.png",
     "dev/database/SQL/designing database schema/Relational Database Schema.md",
     "dev/database/SQL/designing database schema/Database Schema.md",
     "dev/database/SQL/designing database schema/archives",
@@ -188,12 +191,9 @@
     "dev/aws/certified solutions architect associate/Route 53/CNAME vs Alias.md",
     "dev/aws/certified solutions architect associate/Route 53/DNS.md",
     "dev/aws/certified solutions architect associate/Route 53/archives",
-    "dev/database/relational database/Tables Overview.md",
     "dev/aws/certified solutions architect associate/Route 53",
-    "dev/database/relational database/Database Structure Overview.md",
     "Untitled.md",
     "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
-    "dev/aws/certified solutions architect associate/misc/Important Ports and Database Ports.md",
     "Untitled.canvas"
   ]
 }

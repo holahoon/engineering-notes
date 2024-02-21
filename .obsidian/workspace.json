@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
+                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
+                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
+                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/S3 Versioning.md"
+                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md"
               }
             }
           }
@@ -148,52 +148,52 @@
   },
   "active": "70e71e15fba15f0b",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/S3/S3 Static Website Hosting.md",
-    "dev/aws/certified solutions architect associate/S3/S3 Versioning.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220203126.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Points.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220202811.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220202522.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Glacier Vault Lock.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220201915.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 - Pre-Signed URLs.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220200616.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220200602.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Logs.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220195540.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220195439.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 MFA Delete.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 CORS.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220170835.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220162748.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Encryption in transit (SSL, TLS).md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220162444.png",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Encrpytion.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Event Notifications.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Security.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction",
+    "dev/aws/certified solutions architect associate/S3/Untitled.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Batch Operations.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Select & Glacier Select.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Performance.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Requester Pays.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Storage Classes.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Replication (CRR & SRR).md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Versioning.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Static Website Hosting.md",
     "dev/database/relational database/Database Structure Overview.md",
     "dev/database/relational database/Tables Overview.md",
-    "dev/aws/certified solutions architect associate/S3/S3 Security.md",
-    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212538.png",
-    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212457.png",
-    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212438.png",
-    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212331.png",
-    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212314.png",
-    "dev/aws/certified solutions architect associate/S3/archives/Pasted image 20240218212108.png",
     "dev/aws/certified solutions architect associate/S3/archives",
-    "dev/aws/certified solutions architect associate/S3/S3 Overview.md",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Overview.md",
     "dev/aws/certified solutions architect associate/S3",
     "dev/aws/certified solutions architect associate/Untitled.md",
     "dev/aws/certified solutions architect associate/classic solution architecture",
     "dev/database/SQL/designing database schema/Building a Schema.md",
-    "dev/database/SQL/designing database schema/Primary Key.md",
-    "dev/database/SQL/SQL operators/SQL Arithmetic Operators.md",
-    "dev/database/SQL/SQL operators/SQL Comparison Operators.md",
-    "dev/database/SQL/SQL sorting and filtering data/Where clause.md",
-    "dev/database/SQL/SQL sorting and filtering data/ORDER BY clause.md",
-    "dev/database/SQL/SQL sorting and filtering data/SELECT DISTINCT Clause.md",
-    "dev/database/SQL/designing database schema/Database Normalization.md",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215144222.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215144220.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215143857.png",
-    "dev/database/SQL/designing database schema/archives/Pasted image 20240215141856.png",
-    "dev/database/SQL/designing database schema/Relational Database Schema.md",
-    "dev/database/SQL/designing database schema/Database Schema.md",
     "dev/database/SQL/designing database schema/archives",
     "dev/database/SQL/designing database schema",
     "dev/database/SQL/SQL sorting and filtering data",
-    "dev/database/SQL/SQL operators",
-    "dev/aws/certified solutions architect associate/Route 53/Domain Registrar vs. DNS Service.md",
-    "dev/database/SQL",
-    "dev/database/SQL.md",
-    "dev/aws/certified solutions architect associate/Route 53/Route 53 Overview.md",
-    "dev/aws/certified solutions architect associate/Route 53/Health Checks.md",
-    "dev/aws/certified solutions architect associate/Route 53/Routing Policies.md",
-    "dev/aws/certified solutions architect associate/Route 53/CNAME vs Alias.md",
-    "dev/aws/certified solutions architect associate/Route 53/DNS.md",
-    "dev/aws/certified solutions architect associate/Route 53/archives",
-    "dev/aws/certified solutions architect associate/Route 53",
-    "Untitled.md",
-    "dev/aws/certified solutions architect associate/RDS + Aurora + ElastiCache/RDS Proxy.md",
     "Untitled.canvas"
   ]
 }

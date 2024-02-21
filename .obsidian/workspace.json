@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
+                "file": "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
+                "file": "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
+                "file": "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md"
+                "file": "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md"
               }
             }
           }
@@ -148,23 +148,31 @@
   },
   "active": "28f3917e9dd31512",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102806.png",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102555.png",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102542.png",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102426.png",
-    "dev/aws/certified solutions architect associate/CloudFront/CloudFront - Cache Invalidations.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/Data Sync.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221162729.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221162509.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/Transfer Family.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221162341.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/Hybrid Cloud for Storage.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153835.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153814.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153708.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153624.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153455.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153235.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221153038.png",
+    "dev/aws/certified solutions architect associate/Storage Extras/FSx - Overview.md",
+    "Untitled 1.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/Snow Family.md",
+    "dev/aws/certified solutions architect associate/Storage Extras/archives",
     "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102151.png",
+    "dev/aws/certified solutions architect associate/Storage Extras",
+    "dev/aws/certified solutions architect associate/CloudFront/CloudFront - Cache Invalidations.md",
     "dev/aws/certified solutions architect associate/CloudFront/CloudFront Price Classes.md",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102022.png",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101959.png",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101827.png",
     "dev/aws/certified solutions architect associate/CloudFront/CloudFront Geo Restriction.md",
     "dev/aws/certified solutions architect associate/CloudFront/CloudFront - ALB or EC2 as an Origin.md",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101324.png",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101307.png",
     "dev/aws/certified solutions architect associate/CloudFront/CloudFront Overview.md",
-    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101215.png",
     "dev/aws/certified solutions architect associate/CloudFront/archives",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
     "dev/aws/certified solutions architect associate/CloudFront",
@@ -185,15 +193,7 @@
     "dev/aws/certified solutions architect associate/S3/Untitled.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Batch Operations.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Select & Glacier Select.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Performance.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Requester Pays.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Storage Classes.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Replication (CRR & SRR).md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Versioning.md",
     "dev/aws/certified solutions architect associate/S3/archives",
-    "dev/aws/certified solutions architect associate/S3",
-    "dev/aws/certified solutions architect associate/classic solution architecture",
     "Untitled.canvas"
   ]
 }

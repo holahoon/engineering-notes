@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0495a0b91572d224",
+        "id": "23bf0ee607812787",
         "type": "tabs",
         "children": [
           {
-            "id": "70e71e15fba15f0b",
+            "id": "28f3917e9dd31512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
+                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
+                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
+                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md"
+                "file": "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md"
               }
             }
           }
@@ -146,27 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70e71e15fba15f0b",
+  "active": "28f3917e9dd31512",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220203126.png",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Points.md",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102806.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102555.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102542.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102426.png",
+    "dev/aws/certified solutions architect associate/CloudFront/CloudFront - Cache Invalidations.md",
+    "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102151.png",
+    "dev/aws/certified solutions architect associate/CloudFront/CloudFront Price Classes.md",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221102022.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101959.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101827.png",
+    "dev/aws/certified solutions architect associate/CloudFront/CloudFront Geo Restriction.md",
+    "dev/aws/certified solutions architect associate/CloudFront/CloudFront - ALB or EC2 as an Origin.md",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101324.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101307.png",
+    "dev/aws/certified solutions architect associate/CloudFront/CloudFront Overview.md",
+    "dev/aws/certified solutions architect associate/CloudFront/archives/Pasted image 20240221101215.png",
+    "dev/aws/certified solutions architect associate/CloudFront/archives",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220202811.png",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220202522.png",
+    "dev/aws/certified solutions architect associate/CloudFront",
+    "dev/database/PostgreSQL",
+    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Points.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Glacier Vault Lock.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220201915.png",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 - Pre-Signed URLs.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220200616.png",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220200602.png",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Logs.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220195540.png",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220195439.png",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 MFA Delete.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 CORS.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220170835.png",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220162748.png",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Encryption in transit (SSL, TLS).md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives/Pasted image 20240220162444.png",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Encrpytion.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/archives",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Event Notifications.md",
@@ -182,18 +191,9 @@
     "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Storage Classes.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Replication (CRR & SRR).md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Versioning.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Static Website Hosting.md",
-    "dev/database/relational database/Database Structure Overview.md",
-    "dev/database/relational database/Tables Overview.md",
     "dev/aws/certified solutions architect associate/S3/archives",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 introduction/S3 Overview.md",
     "dev/aws/certified solutions architect associate/S3",
-    "dev/aws/certified solutions architect associate/Untitled.md",
     "dev/aws/certified solutions architect associate/classic solution architecture",
-    "dev/database/SQL/designing database schema/Building a Schema.md",
-    "dev/database/SQL/designing database schema/archives",
-    "dev/database/SQL/designing database schema",
-    "dev/database/SQL/SQL sorting and filtering data",
     "Untitled.canvas"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md"
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md"
               }
             }
           }
@@ -146,22 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28f3917e9dd31512",
+  "active": "697d21bfe8a478a9",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222213159.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222212904.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Long Polling.md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223113304.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223113128.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222203643.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223113004.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223112729.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223112606.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223112343.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/Amason SNS.md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223111837.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223111728.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223111535.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives/Pasted image 20240223111457.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS with Auto Scaling Group (ASG).md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Long Polling.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Message Visibility Timeout.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202640.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202638.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202637 1.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202637.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202407.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202405.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202404.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202400.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Introduction.md",
@@ -186,14 +191,9 @@
     "dev/aws/certified solutions architect associate/CloudFront/CloudFront Overview.md",
     "dev/aws/certified solutions architect associate/CloudFront/archives",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Lambda.md",
-    "dev/aws/certified solutions architect associate/CloudFront",
-    "dev/database/PostgreSQL",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Points.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Glacier Vault Lock.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 - Pre-Signed URLs.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Logs.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 MFA Delete.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 CORS.md",
     "Untitled.canvas"
   ]
 }

@@ -8,6 +8,3 @@
 ✏️ Note that you have to end the name of your queue with `.fifo`
 
 ![[Pasted image 20240222213159.png]]
-
-
-

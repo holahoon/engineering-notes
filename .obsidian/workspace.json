@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md"
+                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md"
               }
             }
           }
@@ -148,27 +148,30 @@
   },
   "active": "28f3917e9dd31512",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222113117.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222112917.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222213159.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222212904.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Long Polling.md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222203643.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Message Visibility Timeout.md",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202640.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202638.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202637 1.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202637.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202407.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202405.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202404.png",
+    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222202400.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222112933.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222112823.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222112546.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222112336.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives/Pasted image 20240222111124.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Introduction.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/archives/Pasted image 20240222110315.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/archives",
     "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
     "dev/aws/certified solutions architect associate/Untitled 1",
     "dev/aws/certified solutions architect associate/Integration & Messaging",
     "dev/aws/certified solutions architect associate/Storage Extras/Data Sync.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221162729.png",
-    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221162509.png",
     "dev/aws/certified solutions architect associate/Storage Extras/Transfer Family.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/archives/Pasted image 20240221162341.png",
     "dev/aws/certified solutions architect associate/Storage Extras/Hybrid Cloud for Storage.md",
     "dev/aws/certified solutions architect associate/Storage Extras/FSx - Overview.md",
     "Untitled 1.md",
@@ -191,9 +194,6 @@
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Access Logs.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 MFA Delete.md",
     "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 CORS.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Encryption in transit (SSL, TLS).md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 security/S3 Object Encrpytion.md",
-    "dev/aws/certified solutions architect associate/S3/Amazon S3 advanced/S3 Event Notifications.md",
     "Untitled.canvas"
   ]
 }

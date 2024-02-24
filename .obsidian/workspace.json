@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23bf0ee607812787",
+        "id": "cb03502154123022",
         "type": "tabs",
         "children": [
           {
-            "id": "28f3917e9dd31512",
+            "id": "bc1e5a8eb9cce839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
+                "file": "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
+                "file": "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
+                "file": "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md"
+                "file": "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md"
               }
             }
           }
@@ -146,53 +146,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28f3917e9dd31512",
+  "active": "bc1e5a8eb9cce839",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/EKS Overview.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS Overview.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/ECR.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS tasks invoked by Event Bridge.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171812.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171558.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS Service Auto Scaling.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171422.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224164937.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224164623.png",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives",
+    "dev/database/MySQL/Connect to MySQL from localhost.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS",
+    "dev/database/SQL/designing database schema/Primary Key.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/archives/Pasted image 20240223155737.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/archives/Pasted image 20240223155631.png",
+    "dev/database/MySQL",
+    "Untitled 1.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS vs SNS vs Kinesis.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Ordering data.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223154147.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223154016.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223154013.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223153245.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Kinesis Data Fireshose.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223152229.png",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Kinesis Overview.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Kinesis Data Stream.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223151037.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223142844.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives/Pasted image 20240223142948.png",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/archives",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/Amason SNS.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/archives",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS with Auto Scaling Group (ASG).md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Long Polling.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Message Visibility Timeout.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/archives",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Introduction.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/archives",
     "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
-    "dev/aws/certified solutions architect associate/Untitled 1",
-    "dev/aws/certified solutions architect associate/Integration & Messaging",
     "dev/aws/certified solutions architect associate/Storage Extras/Data Sync.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/Transfer Family.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/Hybrid Cloud for Storage.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/FSx - Overview.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/Snow Family.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/archives",
-    "dev/aws/certified solutions architect associate/CloudFront/AWS Global Accelerator.md",
-    "dev/aws/certified solutions architect associate/CloudFront/CloudFront - Cache Invalidations.md",
-    "dev/aws/certified solutions architect associate/CloudFront/CloudFront Price Classes.md",
-    "dev/aws/certified solutions architect associate/CloudFront/CloudFront Geo Restriction.md",
     "Untitled.canvas"
   ]
 }

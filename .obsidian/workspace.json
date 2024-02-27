@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
+                "file": "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
+                "file": "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
+                "file": "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md"
+                "file": "dev/database/SQL/managing tables & working width data types/Generated Columns.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "bc1e5a8eb9cce839",
   "lastOpenFiles": [
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
     "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
+    "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
     "dev/database/SQL/managing tables & working width data types",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives",
@@ -194,7 +195,6 @@
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Introduction.md",
     "dev/aws/certified solutions architect associate/Storage Extras/Storage Comparison.md",
-    "dev/aws/certified solutions architect associate/Storage Extras/Data Sync.md",
     "Untitled.canvas"
   ]
 }

@@ -53,3 +53,20 @@ ALTER TABLE users
 ADD CONSTRAINT yearly_salary_positive CHECK (yearly_salary > 0);
 ```
 It just says to update `users` table to set `yearly_salary` to `NULL` where `full_name` is `'Jin Ho Kim`. Then modify the table.
+
+## Column Constraints & Table Constraints
+
+When creating a constraint for a column, we specify:
+```sql
+...
+salary INT CHECK (salary > 0)
+...
+```
+
+When creating a constraint for the table, we specify as if defining a new column:
+```sql
+...
+salary INT,
+CHECK (salary > 0)
+...
+```

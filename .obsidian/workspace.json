@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
+                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
+                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
+                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md"
+                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "bc1e5a8eb9cce839",
   "lastOpenFiles": [
-    "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
+    "dev/database/SQL/data manipulation & querying/DISTINCT Values.md",
+    "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
+    "dev/database/SQL/data manipulation & querying/Ordering & Limiting Results.md",
+    "dev/database/SQL/data manipulation & querying/Filtering with WHERE.md",
+    "dev/database/SQL/data manipulation & querying/Basic CRUD.md",
     "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
+    "dev/database/SQL/data manipulation & querying",
+    "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
     "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/App Runner.md",
     "dev/database/SQL/managing tables & working width data types",
@@ -178,7 +184,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224164937.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives",
     "dev/database/MySQL/Connect to MySQL from localhost.md",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS",
     "dev/database/SQL/designing database schema/Primary Key.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
     "Untitled 1.md",
@@ -190,11 +195,6 @@
     "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/Amason SNS.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS with Auto Scaling Group (ASG).md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Long Polling.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - Message Visibility Timeout.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS Overview.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Introduction.md",
     "Untitled.canvas"
   ]
 }

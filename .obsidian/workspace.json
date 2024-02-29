@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
+                "file": "dev/database/SQL/data normalization & relationships/UNION.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
+                "file": "dev/database/SQL/data normalization & relationships/UNION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
+                "file": "dev/database/SQL/data normalization & relationships/UNION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/data manipulation & querying/Subqueries & Views.md"
+                "file": "dev/database/SQL/data normalization & relationships/UNION.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "bc1e5a8eb9cce839",
   "lastOpenFiles": [
-    "dev/database/SQL/data manipulation & querying/DISTINCT Values.md",
+    "dev/database/SQL/data normalization & relationships/CROSS JOIN.md",
+    "dev/database/SQL/data normalization & relationships/UNION.md",
+    "dev/database/SQL/data normalization & relationships/LEFT JOIN.md",
+    "dev/database/SQL/data normalization & relationships/INNER JOIN.md",
     "dev/database/SQL/data manipulation & querying/Subqueries & Views.md",
+    "dev/database/SQL/data normalization & relationships",
+    "dev/database/SQL/data manipulation & querying/DISTINCT Values.md",
     "dev/database/SQL/data manipulation & querying/Ordering & Limiting Results.md",
     "dev/database/SQL/data manipulation & querying/Filtering with WHERE.md",
     "dev/database/SQL/data manipulation & querying/Basic CRUD.md",
@@ -182,7 +187,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224164937.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives",
     "dev/database/MySQL/Connect to MySQL from localhost.md",
     "dev/database/SQL/designing database schema/Primary Key.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
@@ -191,10 +195,6 @@
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Ordering data.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Kinesis Data Fireshose.md",
     "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Kinesis Overview.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Kinesis/Kinesis Data Stream.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/SNS + SQS Fan Out pattern.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS/SQS - FIFO Queue.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SNS/Amason SNS.md",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"decadc44a2966d5d","x":-415,"y":-114,"width":250,"height":60,"type":"text","text":"**Employees**\nID, name, birth date, email"},
+		{"id":"decadc44a2966d5d","type":"text","text":"**Employees**\nID, name, birth date, email","x":-415,"y":-114,"width":250,"height":60},
 		{"id":"0d4e4d6f841e961a","type":"text","text":"**Teams**\nID, name, building","x":0,"y":-114,"width":250,"height":60},
 		{"id":"b71378a0c6c8f6ac","type":"text","text":"**Buildings**\nID, name","x":0,"y":80,"width":250,"height":60},
 		{"id":"a6604c8670056355","type":"text","text":"**Intranet Accounts**\nemail, password","x":-415,"y":80,"width":250,"height":60},
@@ -10,6 +10,6 @@
 		{"id":"d893e81a304865ca","fromNode":"decadc44a2966d5d","fromSide":"bottom","toNode":"a6604c8670056355","toSide":"top","label":"1:1"},
 		{"id":"a5806ff519f7ace5","fromNode":"decadc44a2966d5d","fromSide":"right","toNode":"0d4e4d6f841e961a","toSide":"left","label":"1:n"},
 		{"id":"292995326c8e286d","fromNode":"0d4e4d6f841e961a","fromSide":"bottom","toNode":"b71378a0c6c8f6ac","toSide":"top","label":"1:n"},
-		{"id":"685b322664243d8a","fromNode":"decadc44a2966d5d","fromSide":"top","toNode":"b1ee0e7302965b70","toSide":"top","label":"n:n"}
+		{"id":"685b322664243d8a","fromNode":"decadc44a2966d5d","fromSide":"top","toNode":"b1ee0e7302965b70","toSide":"top","fromEnd":"arrow","label":"n:n"}
 	]
 }

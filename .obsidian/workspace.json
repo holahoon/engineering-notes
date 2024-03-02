@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
+                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
+                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
+                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Data Relationship Types.md"
+                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "bc1e5a8eb9cce839",
   "lastOpenFiles": [
-    "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
+    "dev/database/SQL/data normalization & relationships/Self-Referential Relationships.md",
+    "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
+    "dev/database/SQL/data normalization & relationships/Composite Keys.md",
     "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
+    "dev/database/SQL/primary & foreign keys",
+    "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/database/SQL/data normalization & relationships/archives",
     "dev/database/SQL/data normalization & relationships/Foreign Key Constraints.md",
@@ -181,7 +185,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS tasks invoked by Event Bridge.md",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png",
@@ -192,8 +195,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png",
     "dev/database/MySQL/Connect to MySQL from localhost.md",
     "dev/database/SQL/designing database schema/Primary Key.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md",
-    "Untitled 1.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/SQS vs SNS vs Kinesis.md"
+    "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md"
   ]
 }

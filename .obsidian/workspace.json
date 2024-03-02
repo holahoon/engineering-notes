@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb03502154123022",
+        "id": "60b2242f692e944c",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1e5a8eb9cce839",
+            "id": "39a2cf6601ec3ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
+                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
+                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
+                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md"
+                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc1e5a8eb9cce839",
+  "active": "39a2cf6601ec3ffe",
   "lastOpenFiles": [
-    "dev/database/SQL/data normalization & relationships/Self-Referential Relationships.md",
+    "dev/database/SQL/grouping & aggregate function/Aggregate Function.md",
+    "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
     "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
+    "dev/database/SQL/grouping & aggregate function",
+    "dev/database/SQL/data normalization & relationships/Self-Referential Relationships.md",
     "dev/database/SQL/data normalization & relationships/Composite Keys.md",
     "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
     "dev/database/SQL/primary & foreign keys",
@@ -183,7 +186,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/ECR.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS tasks invoked by Event Bridge.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",
@@ -193,8 +195,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS Service Auto Scaling.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171422.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png",
-    "dev/database/MySQL/Connect to MySQL from localhost.md",
-    "dev/database/SQL/designing database schema/Primary Key.md",
-    "dev/aws/certified solutions architect associate/Integration & Messaging/Amazon MQ.md"
+    "dev/database/MySQL/Connect to MySQL from localhost.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
+                "file": "dev/database/SQL/grouping & aggregate function/Window Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
+                "file": "dev/database/SQL/grouping & aggregate function/Window Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
+                "file": "dev/database/SQL/grouping & aggregate function/Window Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md"
+                "file": "dev/database/SQL/grouping & aggregate function/Window Functions.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   "active": "39a2cf6601ec3ffe",
   "lastOpenFiles": [
     "dev/database/SQL/grouping & aggregate function/Aggregate Function.md",
+    "dev/database/SQL/grouping & aggregate function/GROUP BY.md",
+    "dev/database/SQL/grouping & aggregate function/Nested Subqueries.md",
+    "dev/database/SQL/grouping & aggregate function/WHERE vs HAVING.md",
+    "dev/database/SQL/grouping & aggregate function/Window Functions.md",
     "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
     "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
     "dev/database/SQL/grouping & aggregate function",
@@ -183,18 +187,14 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS Overview.md",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/ECR.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS tasks invoked by Event Bridge.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171812.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171558.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/ECS Service Auto Scaling.md",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171422.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png",
-    "dev/database/MySQL/Connect to MySQL from localhost.md"
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png"
   ]
 }

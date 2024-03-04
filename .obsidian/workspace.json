@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60b2242f692e944c",
+        "id": "a94a41ef29f4d601",
         "type": "tabs",
         "children": [
           {
-            "id": "39a2cf6601ec3ffe",
+            "id": "fbe56736104b6400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/query functions & operators/Conditional Expressions.md",
+                "file": "dev/database/SQL/database transactions/Understanding Transactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/query functions & operators/Conditional Expressions.md",
+                "file": "dev/database/SQL/database transactions/Understanding Transactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/query functions & operators/Conditional Expressions.md",
+                "file": "dev/database/SQL/database transactions/Understanding Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/query functions & operators/Conditional Expressions.md"
+                "file": "dev/database/SQL/database transactions/Understanding Transactions.md"
               }
             }
           }
@@ -146,17 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39a2cf6601ec3ffe",
+  "active": "fbe56736104b6400",
   "lastOpenFiles": [
-    "dev/database/SQL/query functions & operators/IN.md",
+    "dev/database/SQL/designing database schema/Building a Schema.md",
+    "dev/database/SQL/database transactions/Understanding Transactions.md",
+    "dev/database/SQL/database transactions",
+    "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
+    "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
+    "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
+    "dev/database/relational database/Tables Overview.md",
+    "dev/database/relational database/Database Structure Overview.md",
+    "dev/database/MySQL/Connect to MySQL from localhost.md",
     "dev/database/SQL/query functions & operators/Conditional Expressions.md",
+    "dev/database/SQL/query functions & operators/IN.md",
     "dev/database/SQL/data normalization & relationships/LEFT JOIN.md",
     "dev/database/SQL/query functions & operators/EXISTS.md",
     "dev/database/SQL/query functions & operators/String Functions.md",
     "dev/database/SQL/query functions & operators/LIKE & Pattern Matching.md",
-    "dev/database/SQL/managing tables & working width data types/CHECK Constraint.md",
-    "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
-    "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
     "dev/database/SQL/designing database schema/Relational Database Schema.md",
     "dev/database/SQL/grouping & aggregate function/Nested Subqueries.md",
     "dev/database/SQL/grouping & aggregate function/WHERE vs HAVING.md",
@@ -170,16 +176,11 @@
     "dev/database/SQL/grouping & aggregate function/Aggregate Function.md",
     "dev/database/SQL/grouping & aggregate function/GROUP BY.md",
     "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
-    "dev/database/SQL/data normalization & relationships/Self-Referencing Many To Many Relationships.md",
     "dev/database/SQL/grouping & aggregate function",
-    "dev/database/SQL/data normalization & relationships/Self-Referential Relationships.md",
-    "dev/database/SQL/data normalization & relationships/Composite Keys.md",
-    "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
     "dev/database/SQL/primary & foreign keys",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/database/SQL/data normalization & relationships/archives",
-    "dev/database/SQL/data normalization & relationships/Foreign Key Constraints.md",
     "dev/database/SQL/data normalization & relationships",
     "dev/database/SQL/data manipulation & querying",
     "dev/database/SQL/managing tables & working width data types",
@@ -187,7 +188,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",

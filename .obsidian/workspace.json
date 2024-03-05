@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/database/SQL/database transactions/Understanding Transactions.md",
+                "file": "dev/database/SQL/using indexes/Indexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/database/SQL/database transactions/Understanding Transactions.md",
+                "file": "dev/database/SQL/using indexes/Indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/database/SQL/database transactions/Understanding Transactions.md",
+                "file": "dev/database/SQL/using indexes/Indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/database/SQL/database transactions/Understanding Transactions.md"
+                "file": "dev/database/SQL/using indexes/Indexes.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "fbe56736104b6400",
   "lastOpenFiles": [
-    "dev/database/SQL/designing database schema/Building a Schema.md",
+    "dev/database/SQL/using indexes/EXPLAIN.md",
+    "dev/database/SQL/using indexes/Indexes.md",
     "dev/database/SQL/database transactions/Understanding Transactions.md",
+    "dev/database/SQL/using indexes",
+    "dev/database/SQL/designing database schema/Building a Schema.md",
     "dev/database/SQL/database transactions",
     "dev/database/SQL/managing tables & working width data types/Quick overview of basic SQL commands.md",
     "dev/database/SQL/managing tables & working width data types/Generated Columns.md",
@@ -174,8 +177,6 @@
     "dev/database/SQL/grouping & aggregate function/Window Functions.md",
     "dev/database/SQL/query functions & operators",
     "dev/database/SQL/grouping & aggregate function/Aggregate Function.md",
-    "dev/database/SQL/grouping & aggregate function/GROUP BY.md",
-    "dev/database/SQL/grouping & aggregate function/With Filters & Joining Tables.md",
     "dev/database/SQL/grouping & aggregate function",
     "dev/database/SQL/primary & foreign keys",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
@@ -186,7 +187,6 @@
     "dev/database/SQL/managing tables & working width data types",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",

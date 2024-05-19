@@ -156,5 +156,3 @@ result = int(input('Favorite number: '))
 print(type(result))
 # int
 ```
-
-

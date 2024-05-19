@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/python/basics/python statements/Useful Operators.md",
+                "file": "dev/python/basics/python statements/_Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/python/basics/python statements/Useful Operators.md",
+                "file": "dev/python/basics/python statements/_Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/python/basics/python statements/Useful Operators.md",
+                "file": "dev/python/basics/python statements/_Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/python/basics/python statements/Useful Operators.md"
+                "file": "dev/python/basics/python statements/_Exercises.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "9fe57671c6de8b70",
   "lastOpenFiles": [
+    "dev/python/basics/python statements/Useful Operators.md",
+    "dev/python/basics/python statements/_Exercises.md",
+    "dev/python/basics/python statements/For Loops.md",
+    "dev/python/basics/Print Formatting with Strings.md",
+    "dev/python/basics/python statements/List Comprehensions.md",
     "dev/python/basics/python statements/While Loops.md",
     "dev/python/basics/data structure basics/Input & Output Basic Files.md",
     "dev/python/basics/data structure basics/Introduction to Python Data Types.md",
-    "dev/python/basics/python statements/Useful Operators.md",
-    "dev/python/basics/python statements/For Loops.md",
     "dev/python/basics/python statements/If Elif Else Statements.md",
     "dev/python/basics/python statements",
     "dev/python/basics/Python Comparison Operators.md",
@@ -180,9 +183,6 @@
     "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
-    "dev/docker/using docker compose/docker compose watch.md",
-    "dev/database/SQL/data normalization & relationships/Data Relationship Types.md",
     "dev/database/SQL/using indexes",
     "dev/database/SQL/database transactions",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",

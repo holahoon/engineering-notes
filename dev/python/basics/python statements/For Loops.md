@@ -84,5 +84,3 @@ for val in dict.values():
 ```
 
 💡 Keep in mind that our dictionary looks ordered in the example, but dictionary in Python does not guarantee order.
-
-

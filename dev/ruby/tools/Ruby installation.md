@@ -72,7 +72,3 @@ We can double check that this worked by:
 $ ruby -v
 # ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin23]
 ```
-
-
-
-

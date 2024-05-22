@@ -28,7 +28,3 @@ print(result) # ('SH', 4000)
 name, hours = employee_check(work_hours)
 print(name) # 'SH'
 ```
-
-
-
-

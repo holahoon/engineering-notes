@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "251c6589fe601b08",
+        "id": "2cbc5c0268f9a34d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5849463ef5e222",
+            "id": "130f0f0854df598a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,21 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5849463ef5e222",
+  "active": "130f0f0854df598a",
   "lastOpenFiles": [
-    "dev/python/basics/methods and functions/Functions.md",
-    "dev/python/basics/Print Formatting with Strings.md",
-    "dev/python/basics/methods and functions",
+    "dev/python/basics/methods and functions/Lambda Expressions Map and Filter.md",
+    "dev/python/basics/methods and functions/_examples.md",
+    "dev/python/basics/data structure basics/Introduction to Python Data Types.md",
+    "dev/python/basics/python statements/List Comprehensions.md",
+    "dev/python/basics/python statements/If Elif Else Statements.md",
     "dev/python/basics/python statements/_Exercises.md",
+    "dev/python/basics/python statements/While Loops.md",
     "dev/python/basics/python statements/Useful Operators.md",
     "dev/python/basics/python statements/For Loops.md",
-    "dev/python/basics/python statements/List Comprehensions.md",
-    "dev/python/basics/python statements/While Loops.md",
-    "dev/python/basics/data structure basics/Input & Output Basic Files.md",
-    "dev/python/basics/data structure basics/Introduction to Python Data Types.md",
-    "dev/python/basics/python statements/If Elif Else Statements.md",
-    "dev/python/basics/python statements",
+    "dev/python/basics/methods and functions/Functions.md",
     "dev/python/basics/Python Comparison Operators.md",
+    "dev/python/basics/Print Formatting with Strings.md",
+    "dev/python/basics/*args and **kwargs.md",
+    "dev/python/basics/methods and functions",
+    "dev/python/basics/data structure basics/Input & Output Basic Files.md",
+    "dev/python/basics/python statements",
     "dev/python/basics",
     "dev/python/basics/data structure basics",
     "dev/python",
@@ -173,9 +176,6 @@
     "dev/docker/multi-stage build/multi-stage build with React application.md",
     "dev/docker/deploying docker container/amd64 and arm64 issue.md",
     "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
-    "dev/docker/deploying docker container/Using AWS EC2 instance to install Docker.md",
-    "dev/docker/using docker compose/What is Docker Compose.md",
-    "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/database/SQL/using indexes",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

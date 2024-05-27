@@ -81,4 +81,3 @@ You can use these methods to iterate from a starting number either up to or down
 
 10.downto(5) { |num| print "#{num} " }   #=> 10 9 8 7 6 5
 ```
-

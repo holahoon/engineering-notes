@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Variables.md",
+                "file": "dev/ruby/Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Variables.md",
+                "file": "dev/ruby/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Variables.md",
+                "file": "dev/ruby/Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Variables.md"
+                "file": "dev/ruby/Loops.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
+    "dev/ruby/Conditional Logic.md",
+    "dev/ruby/Loops.md",
     "dev/ruby/Basic Data Types.md",
     "dev/ruby/Variables.md",
     "dev/python/basics/methods and functions/Nested Statements and Scope.md",
@@ -182,8 +184,6 @@
     "dev/docker/basics/Assign Names and Tags to a Container.md",
     "dev/docker/basics/Copy from or to a Container.md",
     "dev/docker/basics/Managing Containers.md",
-    "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
-    "dev/docker/multi-stage build/multi-stage build with React application.md",
     "dev/database/SQL/using indexes",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

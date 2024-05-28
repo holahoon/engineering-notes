@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Arrays.md",
+                "file": "dev/ruby/Hashes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Arrays.md",
+                "file": "dev/ruby/Hashes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Arrays.md",
+                "file": "dev/ruby/Hashes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Arrays.md"
+                "file": "dev/ruby/Hashes.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
-    "dev/ruby/Loops.md",
     "dev/ruby/Arrays.md",
+    "dev/ruby/Hashes.md",
+    "dev/ruby/Loops.md",
     "dev/ruby/Conditional Logic.md",
     "dev/ruby/Basic Data Types.md",
     "dev/ruby/Variables.md",
@@ -183,7 +184,6 @@
     "dev/docker/basics/Inspecting Images.md",
     "dev/docker/basics/Interactive Mode.md",
     "dev/docker/basics/Assign Names and Tags to a Container.md",
-    "dev/docker/basics/Copy from or to a Container.md",
     "dev/database/SQL/using indexes",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

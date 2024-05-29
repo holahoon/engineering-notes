@@ -38,6 +38,7 @@ When accessing a key that doesn't exist in the hash, it will return `nil`
 shows["spring"] #=> nil
 ```
 
+#### Fetch
 Sometimes, this behavior can be problematic for you if silently return `nil` value could potentially cause chaos in your program. Luckily, hashes have a `fetch` method that will raise an error when you try to access a key that is not in your hash.
 ```ruby
 shoes.fetch("hiking") #=> KeyError: key not found: "hiking"
@@ -45,6 +46,15 @@ shoes.fetch("hiking") #=> KeyError: key not found: "hiking"
 Alternatively, this method can return a default value instead of raising an error if the given key is not found:
 ```ruby
 shoes.fetch("hiking", "hiking boots") #=> "hiking boots"
+```
+
+#### Select
+You can also use `select` method.
+This method allows you to pass a block and will return any key-value pairs that evaluate to true when passed to the block.
+```ruby
+name = { "Bob" => 42, "Steve" => 31, "Joe" => 19}
+name.select {|k, v| k == 'Bob'} #=> {"Bob"=> 42}
+name.select {|k, v| (k == 'Bob') || (v == 19)} #=> {"Bob"=> 42, "Joe"=> 19}
 ```
 
 ## Adding, removing and changing data
@@ -128,6 +138,3 @@ end
 #=> Bob's weight is 160 lbs
 #=> Bob's hair is brown
 ```
-
-
-

@@ -219,5 +219,3 @@ age = 19
 response = age < 18 ? 'child' : 'adult'
 puts response #=> adult
 ```
-
-

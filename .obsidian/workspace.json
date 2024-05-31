@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Enumerable Methods.md",
+                "file": "dev/ruby/Nested Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Enumerable Methods.md",
+                "file": "dev/ruby/Nested Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Enumerable Methods.md",
+                "file": "dev/ruby/Nested Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Enumerable Methods.md"
+                "file": "dev/ruby/Nested Collections.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
-    "dev/ruby/Hashes.md",
+    "dev/ruby/Predicate Enumerable Methods.md",
+    "dev/ruby/Nested Collections.md",
     "dev/ruby/Enumerable Methods.md",
+    "dev/ruby/Hashes.md",
     "dev/ruby/Debugging.md",
     "dev/ruby/Conditional Logic.md",
     "dev/ruby/Variables.md",
@@ -178,12 +180,10 @@
     "dev/python/basics/data structure basics",
     "dev/python",
     "dev/java",
-    "dev/ruby/tools/Ruby installation.md",
     "dev/ruby/tools",
     "dev/ruby/ruby on rails",
     "dev/ruby",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
-    "dev/docker/basics/Docker File to Build an Image.md",
     "dev/database/SQL/using indexes",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

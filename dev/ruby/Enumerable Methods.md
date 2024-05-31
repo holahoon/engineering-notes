@@ -244,3 +244,6 @@ end
 
 invited_friends(friends)
 ```
+
+Of course there's more methods in enumerables!
+[codementor](https://www.codementor.io/ruby-on-rails/tutorial/rubys-swiss-army-knife-the-enumerable-module)

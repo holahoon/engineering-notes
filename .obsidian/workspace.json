@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Nested Collections.md",
+                "file": "dev/ruby/Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Nested Collections.md",
+                "file": "dev/ruby/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Nested Collections.md",
+                "file": "dev/ruby/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Nested Collections.md"
+                "file": "dev/ruby/Project Management.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
-    "dev/ruby/Predicate Enumerable Methods.md",
-    "dev/ruby/Nested Collections.md",
+    "dev/ruby/Object Oriented Programming.md",
+    "dev/ruby/Project Management.md",
     "dev/ruby/Enumerable Methods.md",
+    "dev/ruby/Nested Collections.md",
+    "dev/ruby/Predicate Enumerable Methods.md",
     "dev/ruby/Hashes.md",
     "dev/ruby/Debugging.md",
     "dev/ruby/Conditional Logic.md",
@@ -172,9 +174,7 @@
     "dev/python/basics/methods and functions/Functions.md",
     "dev/python/basics/Python Comparison Operators.md",
     "dev/python/basics/Print Formatting with Strings.md",
-    "dev/python/basics/*args and **kwargs.md",
     "dev/python/basics/methods and functions",
-    "dev/python/basics/data structure basics/Input & Output Basic Files.md",
     "dev/python/basics/python statements",
     "dev/python/basics",
     "dev/python/basics/data structure basics",

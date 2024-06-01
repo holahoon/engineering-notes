@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Classes and Objects 1.md",
+                "file": "dev/ruby/Classes and Objects 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Classes and Objects 1.md",
+                "file": "dev/ruby/Classes and Objects 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Classes and Objects 1.md",
+                "file": "dev/ruby/Classes and Objects 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Classes and Objects 1.md"
+                "file": "dev/ruby/Classes and Objects 2.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
     "dev/ruby/Object Oriented Programming.md",
+    "dev/ruby/Classes and Objects 2.md",
     "dev/ruby/Classes and Objects 1.md",
     "dev/ruby/Project Management.md",
     "dev/ruby/Enumerable Methods.md",
@@ -173,7 +174,6 @@
     "dev/python/basics/python statements/Useful Operators.md",
     "dev/python/basics/python statements/For Loops.md",
     "dev/python/basics/methods and functions/Functions.md",
-    "dev/python/basics/Python Comparison Operators.md",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",

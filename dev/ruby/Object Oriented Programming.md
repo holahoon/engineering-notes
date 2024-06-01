@@ -100,9 +100,9 @@ puts GoodDog.ancestors
 
 The `Speak` module is placed right in between our custom classes (i.e., `GoodDog`) and the `Object` class that comes with Ruby. In [Inheritance](https://launchschool.com/books/oo_ruby/read/inheritance) you'll see how the method lookup chain works when working with both mixins and class inheritance.
 
-# [[Classes and Objects 1]]
+## [[Classes and Objects 1]]
 
-
+## [[Classes and Objects 2]]
 
 
 

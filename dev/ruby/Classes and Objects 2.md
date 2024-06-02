@@ -1,3 +1,4 @@
+
 ## Class Methods
 
 Thus far, all the methods we've created are instance methods. That is, they are methods that pertain to an instance or object of the class. There are also class level methods, called **class methods**. Class methods are methods we can call directly on the class itself, without having to instantiate any objects
@@ -245,3 +246,6 @@ To be clear, from within a class...
 2. `self`, outside of an instance method, references the class and can be used to define class methods. Therefore if we were to define a `name` class method, `def self.name=(n)` is the same as `def GoodDog.name=(n)`
 
 Thus, we can see that `self` is a way of being explicit about what our program is referencing and what our intentions are as far as behavior. `self` changes depending on the scope it is used in, so pay attention to see if you're inside an instance method or not.
+
+There's a great website where I learned from!
+https://launchschool.com/books/oo_ruby/read/inheritance#classinheritance

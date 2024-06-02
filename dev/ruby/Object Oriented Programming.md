@@ -104,5 +104,6 @@ The `Speak` module is placed right in between our custom classes (i.e., `GoodDog
 
 ## [[Classes and Objects 2]]
 
+## [[Class Inheritance]]
 
 

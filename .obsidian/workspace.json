@@ -148,6 +148,9 @@
   },
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
+    "dev/ruby/Class Inheritance.md",
+    "dev/ruby/archives/Pasted image 20240601203919.png",
+    "dev/ruby/archives",
     "dev/ruby/Object Oriented Programming.md",
     "dev/ruby/Classes and Objects 2.md",
     "dev/ruby/Classes and Objects 1.md",
@@ -172,8 +175,6 @@
     "dev/python/basics/python statements/_Exercises.md",
     "dev/python/basics/python statements/While Loops.md",
     "dev/python/basics/python statements/Useful Operators.md",
-    "dev/python/basics/python statements/For Loops.md",
-    "dev/python/basics/methods and functions/Functions.md",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",
@@ -184,7 +185,6 @@
     "dev/ruby/ruby on rails",
     "dev/ruby",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
-    "dev/database/SQL/using indexes",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
@@ -194,7 +194,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171812.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171558.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171422.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224165705.png"
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171422.png"
   ]
 }

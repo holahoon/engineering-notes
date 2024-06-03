@@ -241,7 +241,6 @@ end
 If you run the `good_dog.rb` file with the `GoodDog` class definition, you'll see that `GoodDog` is output. Thus, you can see that using `self` inside a class but outside an instance method refers to the class itself. Therefore, a method definition prefixed with `self` is the same as defining the method on the class. That is, `def self.a_method` is equivalent to `def GoodDog.a_method`. That's why it's a class method; it's actually being defined on the class. Using `self.a_method`, rather than `ClassName.a_method` is a convention. It is useful because if in the future we rename the class, we only have to change the name of the class, rather than having to rename all of the class methods too.
 
 To be clear, from within a class...
-
 1. `self`, inside of an instance method, references the instance (object) that called the method - the calling object. Therefore, `self.weight=` is the same as `sparky.weight=`, in our example.
 2. `self`, outside of an instance method, references the class and can be used to define class methods. Therefore if we were to define a `name` class method, `def self.name=(n)` is the same as `def GoodDog.name=(n)`
 

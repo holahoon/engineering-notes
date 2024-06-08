@@ -358,6 +358,90 @@ end
 
 ## Hash pattern matching
 
+Pattern Matching with Hashes works in a similar way to arrays with a couple of important differences. The first is that pattern matching only works for symbol keys, not string keys. The reason for this is to do with how Ruby matches against a hash. This may change in future Ruby versions. The second important difference is that unlike with arrays, you can match against parts of a Hash without having to handle the fact there may be additional key-value pairs.
+
+We can match against the actual values of a hash.
+```ruby
+case {a: "apple", b: "banana"}
+  in {a: "aaa", b: "bbb"}
+    puts :no_match
+  in {a: "apple", b: "banana"}
+    puts :match
+end
+#=> match
+```
+
+We can match against a hash and assign values to variables.
+```ruby
+case {a: "apple", b: "banana"}
+  in {a: a, b: b}
+    puts a
+    puts b
+end
+#=> apple
+#=> banana
+```
+
+Because of Ruby syntactic sugar for hashes, we could rewrite the above as below. Note how we don’t have to provide names for the variables. This isn’t pattern matching behavior but normal Ruby hash behavior.
+```ruby
+case {a: "apple", b: "banana"}
+  in {a:, b:}
+    puts a
+    puts b
+end
+#=> apple
+#=> banana
+```
+
+As with arrays, with hashes you can omit the brackets `{}`.
+```ruby
+case {a: "apple", b: "banana"}
+  in a:, b:
+    puts a
+    puts b
+end
+#=> apple
+#=> banana
+```
+
+You can use the double splat `**` to scoop up multiple key-value pairs.
+```ruby
+case {a: 'ant', b: 'ball', c: 'cat'}
+  in {a: 'ant', **rest}
+    p rest
+end
+#=> {:b=>"ball", :c=>"cat"}
+```
+
+Something to be mindful of with hashes is that because a hash will match with only a subset of keys matching, you need to guard against situations where you don't want that behavior.
+```ruby
+case {a: "ant", b: "ball"}
+  in {a: "ant"}
+    "this will match"
+  in {a: "ant", b: "ball"}
+    "this will never be reached"
+end
+```
+
+If you want to ensure you only match exactly you can use `**nil`.
+```ruby
+case {a: "ant", b: "ball"}
+  in {a: "ant", **nil}
+    puts :no_match
+  in {a: "ant", b: "ball"}
+    puts :match
+end
+#=> match
+```
+
+We can use the as pattern to assign the entire hash match to a variable.
+```ruby
+case {a: "ant", b: "ball"}
+  in {a: "ant"} => hash
+    p hash
+end
+#=> {:a=>"ant", :b=>"ball"}
+```
 
 
 

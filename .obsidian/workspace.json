@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Serialization in Ruby.md",
+                "file": "dev/ruby/Pattern Matching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Serialization in Ruby.md",
+                "file": "dev/ruby/Pattern Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Serialization in Ruby.md",
+                "file": "dev/ruby/Pattern Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Serialization in Ruby.md"
+                "file": "dev/ruby/Pattern Matching.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "130f0f0854df598a",
   "lastOpenFiles": [
-    "dev/ruby/Linting and RuboCop.md",
     "dev/ruby/Serialization in Ruby.md",
+    "dev/ruby/Pattern Matching.md",
+    "dev/ruby/Linting and RuboCop.md",
     "dev/ruby/Classes and Objects 2.md",
     "dev/ruby/Class Inheritance.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
@@ -175,7 +176,6 @@
     "dev/python/basics/python statements/List Comprehensions.md",
     "dev/python/basics/python statements/If Elif Else Statements.md",
     "dev/python/basics/python statements/_Exercises.md",
-    "dev/python/basics/python statements/While Loops.md",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",

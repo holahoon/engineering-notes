@@ -105,5 +105,5 @@ Material: Wooden
 As you can see, even though the encoded string looks like gibberish, the reconstructed string is the same as the original. This type of serialization can be used when we are not concerned with being able to read the encoded data.  
 Note that it took overall `0.19` ms.
 
-
+Take a look at this particle for the rest: https://blog.kiprosh.com/serialization_in_ruby_on_rails_part_one/
 

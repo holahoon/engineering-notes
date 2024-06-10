@@ -443,5 +443,95 @@ end
 #=> {:a=>"ant", :b=>"ball"}
 ```
 
+## Find pattern
 
+As we saw earlier, we can match against part of a hash using the array pattern match. So what do you do if you need to match against part of an array? The as pattern would capture all of the array and the variable pattern captures individual parts of it. To address this, Ruby added the find pattern.
+It works by placing a `*` either side of the part you want to match. You can even use the variable pattern to give each `*` a variable name to reference later.
+```ruby
+case [1, 2, 3]
+  in [*pre, 1, 2, 3, *post]
+    p pre
+    p post
+end
+#=> []
+#=> []
+```
+This is because everything was matched between the pattern our `pre` and `post` variables were assigned empty arrays.
+Let's see what happens when they aren't.
+```ruby
+case [1, 2, 3, 4, 5]
+  in [*pre, 3, 4, *post]
+    p pre
+    p post
+end
+#=> [1, 2]
+#=> [5]
+```
 
+Here’s an interesting one. Let’s say you have a mixed array of strings and integers and want to match on the first instance of two consecutive strings. While that would be a bit of a pain to implement without using pattern matching, with the find pattern it’s easy. We can even throw in the as pattern to grab the values of the two consecutive strings.
+```ruby
+case [1, 2, "a", 4, "b", "c", 7, 8, 9]
+  in [*pre, String => x, String => z, *post]
+    p pre
+    p x
+    p z
+    p post
+end
+#=> [1, 2, "a", 4]
+#=> "b"
+#=> "c"
+#=> [7, 8, 9]
+```
+
+As a last example, we’ll consider a common use case which will hopefully show where the find pattern could be a better fit than a conventional Ruby solution. It’s not uncommon in Ruby to find yourself with an array of hashes or JSON data, and you might need to locate a record from that data. You need to match that data on a few hash keys. The data might look something like this.
+```ruby
+data = [
+  {name: 'James', age: 50, first_language: 'english', job_title: 'general manager'},
+  {name: 'Jill', age: 32, first_language: 'italian', job_title: 'leet coder'},
+  {name: 'Helen', age: 24, first_language: 'dutch', job_title: 'biscuit quality control'},
+  {name: 'Bob', age: 64, first_language: 'english', job_title: 'table tennis king'},
+  {name: 'Betty', age: 55, first_language: 'spanish', job_title: 'pie maker'},
+]
+```
+
+Let's say you get a name, age, and job title as parameters. If that person exists, you need to return their first language, otherwise `nil`. Before pattern matching, you may do something like this.
+```ruby
+data = [
+  {name: 'James', age: 50, first_language: 'english', job_title: 'general manager'},
+  {name: 'Jill', age: 32, first_language: 'italian', job_title: 'leet coder'},
+  {name: 'Helen', age: 24, first_language: 'dutch', job_title: 'biscuit quality control'},
+  {name: 'Bob', age: 64, first_language: 'english', job_title: 'table tennis king'},
+  {name: 'Betty', age: 55, first_language: 'spanish', job_title: 'pie maker'},
+]
+
+name = 'Jill'
+age = 32
+job_title = 'leet coder'
+
+match = data.find do |person|
+  person[:name] == name && person[:age] == age && person[:job_title] == job_title
+end
+
+p match #=> {:name=>"Jill", :age=>32, :first_language=>"italian", :job_title=>"leet coder"}
+```
+
+A couple of things to note here. Firstly, because `match` could be `nil` if it couldn’t find a record, we had to use the `&` safe search navigator to check that we could call fetch on match. Otherwise, it would have blown up with a no method error. Secondly, while this isn’t actually that bad, imagine we had more than 3 fields to search. What if there were 10? Our code would start to get out of control.
+
+Now let's see how we could have handled it using a pattern match.
+```ruby
+name = 'Jill'
+age = 32
+job_title = 'leet coder'
+
+case data
+  in [*, {name: ^name, age: ^age, first_language: first_language, job_title: ^job_title}, *]
+  else
+    first_language = nil
+end
+
+p first_language #=> "italian"
+```
+
+With pattern matching, we do need to consider the case if there is no match. Without the else clause, we’d get the no matching pattern error. But that is exactly what the else clause is for in the case statement. We get a couple of benefits from doing it this way. Firstly, we can bind the `first_language` value to a variable right there in the pattern. Secondly, and we acknowledge this is somewhat subjective, but we find it beneficial in the case statement to see exactly what kind of data structure we’re trying to match against. This can be useful when getting to grips with code where the data may come from a third party API. And remember, this is still a very simplistic example. In the real world, data can be nested several levels deep which can lead to a horrible tangle of spaghetti code when trying to make sure you can locate a value several levels deep. What if you had to dive 6 levels, but grab a value or two along the way from a couple of the higher levels? No problem with pattern matching.
+
+For more details on pattern matching: https://docs.ruby-lang.org/en/3.3/syntax/pattern_matching_rdoc.html

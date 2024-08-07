@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cbc5c0268f9a34d",
+        "id": "3b5d37cc7ae30f59",
         "type": "tabs",
         "children": [
           {
-            "id": "130f0f0854df598a",
+            "id": "379effe712cac41b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/ruby/Blocks.md",
+                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/ruby/Blocks.md",
+                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/ruby/Blocks.md",
+                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/ruby/Blocks.md"
+                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md"
               }
             }
           }
@@ -146,11 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "130f0f0854df598a",
+  "active": "379effe712cac41b",
   "lastOpenFiles": [
+    "dev/algorithms/Big O Notation/1. The Big O Notation.md",
+    "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
+    "Time Complexity.md",
+    "dev/algorithms/Big O Notation",
+    "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
+    "dev/docker/basics/Docker Basics.md",
+    "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
+    "dev/k8s/managing data and volumes/environment variables.md",
+    "dev/docker/using docker compose/docker compose watch.md",
+    "dev/network/Set up and Secure own Server.md",
+    "dev/network/vps/What is VPS?.md",
+    "dev/network/vps",
+    "dev/network",
+    "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
+    "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
+    "dev/docker/using docker compose/What is Docker Compose.md",
+    "dev/docker/managing data in images & containers/volumes/Understanding Volumes.md",
+    "dev/ruby/Blocks.md",
     "dev/ruby/Enumerable Methods.md",
     "dev/ruby/Basic Data Types.md",
-    "dev/ruby/Blocks.md",
     "dev/ruby/Loops.md",
     "dev/ruby/Methods.md",
     "dev/ruby/Conditional Logic.md",
@@ -162,29 +179,12 @@
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/ruby/archives",
     "dev/ruby/Object Oriented Programming.md",
-    "dev/ruby/Classes and Objects 1.md",
-    "dev/ruby/Project Management.md",
-    "dev/ruby/Nested Collections.md",
-    "dev/ruby/Predicate Enumerable Methods.md",
-    "dev/ruby/Hashes.md",
-    "dev/ruby/Debugging.md",
-    "dev/ruby/Variables.md",
-    "dev/ruby/Arrays.md",
-    "dev/python/basics/methods and functions/Nested Statements and Scope.md",
-    "dev/python/basics/methods and functions/Lambda Expressions Map and Filter.md",
-    "dev/python/basics/methods and functions/_examples.md",
-    "dev/python/basics/data structure basics/Introduction to Python Data Types.md",
-    "dev/python/basics/python statements/List Comprehensions.md",
-    "dev/python/basics/python statements/If Elif Else Statements.md",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",
     "dev/python/basics/data structure basics",
     "dev/python",
     "dev/java",
-    "dev/ruby/tools",
-    "dev/ruby/ruby on rails",
-    "dev/ruby",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

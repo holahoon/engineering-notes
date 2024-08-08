@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5d37cc7ae30f59",
+        "id": "c1c03a5a78f58259",
         "type": "tabs",
         "children": [
           {
-            "id": "379effe712cac41b",
+            "id": "b4ef88637a491bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
+                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
+                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
+                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/Big O Notation/2. Arrays and Objects.md"
+                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379effe712cac41b",
+  "active": "b4ef88637a491bde",
   "lastOpenFiles": [
-    "dev/algorithms/Big O Notation/1. The Big O Notation.md",
-    "dev/algorithms/Big O Notation/2. Arrays and Objects.md",
+    "dev/algorithms/problem-solving-patterns/Problem Solving.md",
+    "dev/algorithms/big-o-notation/2. Arrays and Objects.md",
+    "dev/algorithms/problem-solving-patterns",
+    "dev/algorithms/big-o-notation/1. The Big O Notation.md",
     "Time Complexity.md",
-    "dev/algorithms/Big O Notation",
+    "dev/algorithms/big-o-notation",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
     "dev/docker/basics/Docker Basics.md",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
@@ -178,13 +180,11 @@
     "dev/ruby/Class Inheritance.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/ruby/archives",
-    "dev/ruby/Object Oriented Programming.md",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",
     "dev/python/basics/data structure basics",
     "dev/python",
-    "dev/java",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

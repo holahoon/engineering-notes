@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md",
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md",
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md",
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/Problem Solving.md"
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "b4ef88637a491bde",
   "lastOpenFiles": [
+    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
+    "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
+    "dev/algorithms/problem-solving-patterns/patterns/Patterns.md",
+    "dev/algorithms/problem-solving-patterns/patterns/Multiple Pointers.md",
+    "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
+    "dev/algorithms/problem-solving-patterns/patterns",
     "dev/algorithms/problem-solving-patterns/Problem Solving.md",
     "dev/algorithms/big-o-notation/2. Arrays and Objects.md",
     "dev/algorithms/problem-solving-patterns",
@@ -173,18 +179,12 @@
     "dev/ruby/Loops.md",
     "dev/ruby/Methods.md",
     "dev/ruby/Conditional Logic.md",
-    "dev/ruby/Pattern Matching.md",
-    "dev/ruby/Serialization in Ruby.md",
-    "dev/ruby/Linting and RuboCop.md",
-    "dev/ruby/Classes and Objects 2.md",
-    "dev/ruby/Class Inheritance.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/ruby/archives",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",
     "dev/python/basics/data structure basics",
-    "dev/python",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

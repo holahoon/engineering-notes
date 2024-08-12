@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "251bac2c0201ee5e",
+        "id": "2d5bf6c0cf2f23fa",
         "type": "tabs",
         "children": [
           {
-            "id": "5cf76fba71b5948b",
+            "id": "3538868b07a4d686",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md"
+              }
             }
           }
         ]
@@ -138,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cf76fba71b5948b",
+  "active": "3538868b07a4d686",
   "lastOpenFiles": [
+    "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
     "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
     "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/problem-solving-patterns/patterns/Patterns.md",
     "dev/algorithms/problem-solving-patterns/patterns/Multiple Pointers.md",
-    "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
     "dev/algorithms/problem-solving-patterns/patterns",
     "dev/algorithms/problem-solving-patterns/Problem Solving.md",
     "dev/algorithms/big-o-notation/2. Arrays and Objects.md",

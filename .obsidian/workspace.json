@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c03a5a78f58259",
+        "id": "251bac2c0201ee5e",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ef88637a491bde",
+            "id": "5cf76fba71b5948b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4ef88637a491bde",
+  "active": "5cf76fba71b5948b",
   "lastOpenFiles": [
-    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
+    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/problem-solving-patterns/patterns/Patterns.md",
     "dev/algorithms/problem-solving-patterns/patterns/Multiple Pointers.md",
     "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md"
+                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md"
               }
             }
           }

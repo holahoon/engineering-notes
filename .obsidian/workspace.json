@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
+                "file": "dev/algorithms/recursion/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
+                "file": "dev/algorithms/recursion/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
+                "file": "dev/algorithms/recursion/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md"
+                "file": "dev/algorithms/recursion/Recursion.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "3538868b07a4d686",
   "lastOpenFiles": [
+    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
+    "dev/algorithms/recursion/Recursion.md",
+    "dev/algorithms/recursion",
     "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
     "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
-    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/problem-solving-patterns/patterns/Patterns.md",
     "dev/algorithms/problem-solving-patterns/patterns/Multiple Pointers.md",
     "dev/algorithms/problem-solving-patterns/patterns",
@@ -178,13 +180,11 @@
     "dev/ruby/Basic Data Types.md",
     "dev/ruby/Loops.md",
     "dev/ruby/Methods.md",
-    "dev/ruby/Conditional Logic.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/ruby/archives",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
     "dev/python/basics",
-    "dev/python/basics/data structure basics",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

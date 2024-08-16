@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5bf6c0cf2f23fa",
+        "id": "687924b2bfe215d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3538868b07a4d686",
+            "id": "c61876533d131ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3538868b07a4d686",
+  "active": "c61876533d131ea5",
   "lastOpenFiles": [
-    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/recursion/Recursion.md",
+    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/recursion",
     "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
     "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",

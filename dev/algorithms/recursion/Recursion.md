@@ -136,3 +136,93 @@ function fib(num){
 	return fib(n - 1) + fib(n - 2)
 }
 ```
+
+#### Example 6.
+Write a function that accepts a string and reverses it and returns.
+```js
+reverse('awesome') // 'emosewa'
+reverse('rithmschool') // 'loohcsmhtir'
+```
+
+```js
+function reverse(word){
+  if (!word.length) return ""
+  return reverse(word.slice(1)) + word[0]
+}
+```
+
+#### Example 7.
+Write a function which check if a word is palindrome. Reading from the beginning or the end must be same to return true, otherwise false.
+```js
+isPalindrome('awesome') // false
+isPalindrome('foobar') // false
+isPalindrome('tacocat') // true
+isPalindrome('amanaplanacanalpanama') // true
+isPalindrome('amanaplanacanalpandemonium') // false
+```
+
+```js
+function isPalindrome(word){
+  if (word.length < 2) return true
+  if (word[0] === word[word.length - 1]) return isPalindrome(word.slice(1, -1))
+  return false
+}
+```
+
+#### Example 8.
+Write a recursive function which accepts an array and a callback method. This function should return true if the callback method returns true, otherwise false.
+```js
+// SAMPLE INPUT / OUTPUT
+const isOdd = val => val % 2 !== 0;
+
+someRecursive([1,2,3,4], isOdd) // true
+someRecursive([4,6,8,9], isOdd) // true
+someRecursive([4,6,8], isOdd) // false
+someRecursive([4,6,8], val => val > 10); // false
+```
+
+```js
+function someRecursive(arr, cb){
+	if (!arr.length) return false
+	if (cb(arr[0])) return true
+	return someRecursive(arr.slice(1), cb)
+}
+```
+
+#### Example 9.
+Write a recursive function that accepts nested arrays and returns by flattening the nested arrays.
+```js
+flatten([1, 2, 3, [4, 5] ]) // [1, 2, 3, 4, 5]
+flatten([1, [2, [3, 4], [[5]]]]) // [1, 2, 3, 4, 5]
+flatten([[1],[2],[3]]) // [1,2,3]
+flatten([[[[1], [[[2]]], [[[[[[[3]]]]]]]]]]) // [1,2,3]
+```
+
+```js
+function flatten(arrays){
+  let newArr = []
+  for (const el of arrays) {
+      if (Array.isArray(el)) newArr = newArr.concat(flatten(el))
+      else newArr.push(el)
+  }
+  return newArr
+}
+```
+
+#### Example 10.
+Write a recursive function which accepts an array of strings and capitalizes each word.
+```js
+capitalizeFirst(['car','taco','banana']); // ['Car','Taco','Banana']
+```
+
+```js
+function capitalizeFirst (words) {
+    if (!words.length) return []
+    const capitalizedWord = words[0][0].toUpperCase() + words[0].slice(1)
+    return [capitalizedWord].concat(capitalizeFirst(words.slice(1)))
+}
+```
+
+
+
+

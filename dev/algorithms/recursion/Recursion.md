@@ -198,6 +198,7 @@ flatten([[1],[2],[3]]) // [1,2,3]
 flatten([[[[1], [[[2]]], [[[[[[[3]]]]]]]]]]) // [1,2,3]
 ```
 
+Solution:
 ```js
 function flatten(arrays){
   let newArr = []
@@ -215,6 +216,7 @@ Write a recursive function which accepts an array of strings and capitalizes eac
 capitalizeFirst(['car','taco','banana']); // ['Car','Taco','Banana']
 ```
 
+Solution:
 ```js
 function capitalizeFirst (words) {
     if (!words.length) return []
@@ -223,6 +225,151 @@ function capitalizeFirst (words) {
 }
 ```
 
+#### Example 11.
+Write a recursive function that adds up all the even numbers in a nested object.
+```js
+const obj1 = {
+  outer: 2,
+  obj: {
+    inner: 2,
+    otherObj: {
+      superInner: 2,
+      notANumber: true,
+      alsoNotANumber: "yup"
+    }
+  }
+} // 6
+const obj2 = {
+  a: 2,
+  b: {b: 2, bb: {b: 3, bb: {b: 2}}},
+  c: {c: {c: 2}, cc: 'ball', ccc: 5},
+  d: 1,
+  e: {e: {e: 2}, ee: 'car'}
+} // 10
+```
 
+Solution 1:
+```js
+function nestedEvenSum(obj){
+	let sum = 0
+	for (const key in obj){
+		// null in JS is also of type object btw.
+		if (typeof obj[key] === 'object' && obj[key] !== null){
+			sum += nestedEvenSum(obj[key])
+		} else {
+			if (obj[key] % 2 === 0) sum += obj[key]
+		}
+	}
+	return sum
+}
+```
 
+Solution 2:
+```js
+function nestedEvenSum(obj, sum = 0){
+	for (const key in obj){
+		const el = obj[key]
+		if (typeof el === 'object') sum += nestedEvenSum(el)
+		else if (typeof el === 'number' && el % 2 === 0) sum += el
+	}
+	return sum
+}
+```
 
+#### Example 12.
+Write a recursive function which accepts a nested object and transforms a value that is of type number to a string type.
+```js
+const obj = {
+    num: 1,
+    test: [],
+    data: {
+        val: 4,
+        info: {
+            isRight: true,
+            random: 66
+        }
+    }
+}
+stringifyNumbers(obj)
+// converted:
+{
+    num: "1",
+    test: [],
+    data: {
+        val: "4",
+        info: {
+            isRight: true,
+            random: "66"
+        }
+    }
+}
+```
+
+Solution 1:
+```js
+function stringifyNumbers(obj, base = {}){
+	for (const key in obj){
+		const el = obj[key]
+		if (typeof el === 'object' && !Array.isArray(el) && el !== null){
+			base[key] = stringifyNumbers(el)
+		} else if (typeof el === 'number') {
+			base[key] = `${el}`
+		} else {
+			base[key] = el
+		}
+	}
+	return base
+}
+```
+#### Example 13.
+Write a recursive function that accepts a nested object and takes the values that are of type string, and returns them as an array.
+```js
+const obj = {
+    stuff: "foo",
+    data: {
+        val: {
+            thing: {
+                info: "bar",
+                moreInfo: {
+                    evenMoreInfo: {
+                        weMadeIt: "baz"
+                    }
+                }
+            }
+        }
+    }
+}
+collectStrings(obj) // ["foo", "bar", "baz"])
+```
+
+solution:
+```js
+function collectStrings(obj, base = []){
+    for (const key in obj){
+        const el = obj[key]
+        
+        if (typeof el === 'object' && el !== null && !Array.isArray(el)){
+            return base.concat(collectStrings(el))
+        } else if (typeof el === 'string'){
+            base.push(el)
+        }
+    }
+    return base
+}
+```
+
+Solution 2 (helper method recursive version):
+```js
+function collectStrings(obj){
+	let arr = []
+
+	function gatherStrings(o){
+		for (const key in o){
+			if (typeof o[key] === 'string') arr.push(o[key])
+			else if (typeof o[key] === 'object') return gatherStrings(o[key])
+		}
+	}
+	gatherStrings(obj)
+	return arr
+}
+```

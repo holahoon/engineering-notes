@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "687924b2bfe215d4",
+        "id": "a77c82459a96f0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c61876533d131ea5",
+            "id": "821d23cdb02a2ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/recursion/Recursion.md",
+                "file": "dev/algorithms/search/Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/recursion/Recursion.md",
+                "file": "dev/algorithms/search/Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/recursion/Recursion.md",
+                "file": "dev/algorithms/search/Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/recursion/Recursion.md"
+                "file": "dev/algorithms/search/Search.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c61876533d131ea5",
+  "active": "821d23cdb02a2ca4",
   "lastOpenFiles": [
+    "dev/algorithms/search/Search.md",
+    "dev/algorithms/search",
     "dev/algorithms/recursion/Recursion.md",
     "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/recursion",
@@ -179,12 +181,10 @@
     "dev/ruby/Enumerable Methods.md",
     "dev/ruby/Basic Data Types.md",
     "dev/ruby/Loops.md",
-    "dev/ruby/Methods.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/ruby/archives",
     "dev/python/basics/methods and functions",
     "dev/python/basics/python statements",
-    "dev/python/basics",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

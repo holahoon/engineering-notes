@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/search/Search.md",
+                "file": "dev/algorithms/sorting/Bubble Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/search/Search.md",
+                "file": "dev/algorithms/sorting/Bubble Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/search/Search.md",
+                "file": "dev/algorithms/sorting/Bubble Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/search/Search.md"
+                "file": "dev/algorithms/sorting/Bubble Sorting.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "821d23cdb02a2ca4",
   "lastOpenFiles": [
     "dev/algorithms/search/Search.md",
+    "dev/algorithms/sorting/Bubble Sorting.md",
+    "dev/algorithms/sorting",
     "dev/algorithms/search",
     "dev/algorithms/recursion/Recursion.md",
     "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
@@ -180,11 +182,9 @@
     "dev/ruby/Blocks.md",
     "dev/ruby/Enumerable Methods.md",
     "dev/ruby/Basic Data Types.md",
-    "dev/ruby/Loops.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/ruby/archives",
     "dev/python/basics/methods and functions",
-    "dev/python/basics/python statements",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",

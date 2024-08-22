@@ -22,4 +22,4 @@ insertionSort([2, 11, 9, 5, 76, 24])
 ```
 
 ### Time Complexity
-O(n<sup>2</sup>).
+Wort case, O(n<sup>2</sup>).

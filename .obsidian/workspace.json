@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/algorithms/sorting/Merge Sort (intermediate algo).md",
+                "file": "dev/go/Structs, Methods, and Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/algorithms/sorting/Merge Sort (intermediate algo).md",
+                "file": "dev/go/Structs, Methods, and Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/algorithms/sorting/Merge Sort (intermediate algo).md",
+                "file": "dev/go/Structs, Methods, and Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/algorithms/sorting/Merge Sort (intermediate algo).md"
+                "file": "dev/go/Structs, Methods, and Interfaces.md"
               }
             }
           }
@@ -148,11 +148,19 @@
   },
   "active": "821d23cdb02a2ca4",
   "lastOpenFiles": [
+    "dev/go/Arrays and Slices.md",
+    "dev/go/Structs, Methods, and Interfaces.md",
+    "dev/go/Understanding packages in Golang.md",
+    "dev/go/Named return values.md",
+    "dev/go/1. Install Go.md",
+    "dev/go/2. Hello, World.md",
+    "dev/algorithms/sorting/Merge Sort (intermediate algo).md",
+    "dev/go",
+    "dev/algorithms/sorting/archives/Pasted image 20240822183240.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182515.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182502.png",
     "dev/algorithms/sorting/archives",
     "dev/algorithms/sorting/Insertion Sort.md",
-    "dev/algorithms/sorting/Merge Sort (intermediate algo).md",
     "dev/algorithms/sorting/Selection Sort.md",
     "dev/algorithms/sorting/Bubble Sort.md",
     "dev/algorithms/search/Search.md",
@@ -177,15 +185,9 @@
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/k8s/managing data and volumes/environment variables.md",
     "dev/docker/using docker compose/docker compose watch.md",
-    "dev/network/Set up and Secure own Server.md",
-    "dev/network/vps/What is VPS?.md",
     "dev/network/vps",
     "dev/network",
-    "dev/docker/executing commands within containers/what is \"utility container\"/What is so called \"Utility Container\".md",
-    "dev/docker/deploying docker container/Bind mounts, Volumes & COPY in production.md",
-    "dev/docker/using docker compose/What is Docker Compose.md",
     "dev/ruby/archives/Pasted image 20240601203919.png",
-    "dev/ruby/archives",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
@@ -193,8 +195,6 @@
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171812.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224171558.png"
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png"
   ]
 }

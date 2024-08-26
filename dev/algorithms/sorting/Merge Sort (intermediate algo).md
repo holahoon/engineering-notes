@@ -74,3 +74,5 @@ function mergeSort(arr){
 - Time Complexity average: O(n log<sub>n</sub>)
 - Time Complexity worst: O(n log<sub>n</sub>)
 - Space Complexity: O(n)
+
+![[Pasted image 20240822183240.png]]

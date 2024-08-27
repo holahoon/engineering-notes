@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/Structs, Methods, and Interfaces.md",
+                "file": "dev/go/Pointers and Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/Structs, Methods, and Interfaces.md",
+                "file": "dev/go/Pointers and Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/Structs, Methods, and Interfaces.md",
+                "file": "dev/go/Pointers and Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/Structs, Methods, and Interfaces.md"
+                "file": "dev/go/Pointers and Errors.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "821d23cdb02a2ca4",
   "lastOpenFiles": [
-    "dev/go/Arrays and Slices.md",
     "dev/go/Structs, Methods, and Interfaces.md",
+    "dev/go/Pointers and Errors.md",
+    "dev/go/Arrays and Slices.md",
     "dev/go/Understanding packages in Golang.md",
     "dev/go/Named return values.md",
     "dev/go/1. Install Go.md",
@@ -184,7 +185,6 @@
     "dev/docker/basics/Docker Basics.md",
     "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
     "dev/k8s/managing data and volumes/environment variables.md",
-    "dev/docker/using docker compose/docker compose watch.md",
     "dev/network/vps",
     "dev/network",
     "dev/ruby/archives/Pasted image 20240601203919.png",

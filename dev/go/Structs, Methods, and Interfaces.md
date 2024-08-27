@@ -49,6 +49,13 @@ func TestArea(t *testing.T) {
 }
 ```
 
+Btw, we can collapse fields that have the same type:
+```go
+type Rectangle struct {
+	Width, Height float64
+}
+```
+
 ## Method
 [doc](https://go.dev/ref/spec#Method_declarations)
 A method is a function with a *receiver*. A method declaration binds an identifier, the *method* name, to a method, and associates the method with the receiver's *base type*.
@@ -133,6 +140,8 @@ We can refactor our code since there are some duplication in the test code.
 Al we want to do is take a collection of *shapes*, call the `Area()` method on them and then check the result.
 We want to be able to write some kind of `checkArea` function that we can pass both `Rectangle`s and `Circle`s too, but fail to compile if we try to pass something that isn't a shape.
 With Go, we can codify this intent with **interfaces**.
+
+Very similar to struct, but instead of defining fields, we define a "method set". A method set is a list of methods that a type must have in order to "implement" the interface.
 
 ```go
 // shapes_test.go

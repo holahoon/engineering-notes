@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/Pointers and Errors.md",
+                "file": "dev/go/Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/Pointers and Errors.md",
+                "file": "dev/go/Dependency Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/Pointers and Errors.md",
+                "file": "dev/go/Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/Pointers and Errors.md"
+                "file": "dev/go/Dependency Injection.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "821d23cdb02a2ca4",
   "lastOpenFiles": [
-    "dev/go/Structs, Methods, and Interfaces.md",
+    "Untitled.md",
+    "dev/go/Dependency Injection.md",
+    "dev/go/Maps.md",
     "dev/go/Pointers and Errors.md",
+    "dev/go/Structs, Methods, and Interfaces.md",
     "dev/go/Arrays and Slices.md",
     "dev/go/Understanding packages in Golang.md",
     "dev/go/Named return values.md",
@@ -182,9 +185,6 @@
     "Time Complexity.md",
     "dev/algorithms/big-o-notation",
     "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
-    "dev/docker/basics/Docker Basics.md",
-    "dev/docker/managing data in images & containers/working with env and arg/Working with ENVironment and ARGument.md",
-    "dev/k8s/managing data and volumes/environment variables.md",
     "dev/network/vps",
     "dev/network",
     "dev/ruby/archives/Pasted image 20240601203919.png",

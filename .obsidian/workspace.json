@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a77c82459a96f0c7",
+        "id": "dd33a96cc554e60f",
         "type": "tabs",
         "children": [
           {
-            "id": "821d23cdb02a2ca4",
+            "id": "0362638ea9f70683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/Dependency Injection.md",
+                "file": "dev/go/go basics/functions/Defer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/Dependency Injection.md",
+                "file": "dev/go/go basics/functions/Defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/Dependency Injection.md",
+                "file": "dev/go/go basics/functions/Defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/Dependency Injection.md"
+                "file": "dev/go/go basics/functions/Defer.md"
               }
             }
           }
@@ -146,10 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "821d23cdb02a2ca4",
+  "active": "0362638ea9f70683",
   "lastOpenFiles": [
-    "Untitled.md",
+    "dev/go/go basics/functions/Anonymous Functions.md",
+    "dev/go/go basics/functions/Defer.md",
+    "dev/go/go basics/functions/Function as Values.md",
+    "dev/go/go basics/functions/Explicit Returns.md",
+    "dev/go/go basics/functions/Named Return Values.md",
+    "dev/go/go basics/functions/Ignoring Return Values.md",
+    "dev/go/go basics/conditionals/Switch.md",
+    "dev/go/go basics/functions",
+    "dev/go/go basics/Untitled.md",
+    "dev/go/go basics/conditionals/The initial statement of an if block.md",
+    "dev/go/go basics/variables/21. Runes and String Encoding.md",
+    "dev/go/go basics/conditionals",
+    "dev/go/go basics/variables/20. Formatting Strings in Go.md",
+    "dev/go/go basics/variables/9. Which Type Should I Use?.md",
+    "dev/go/go basics/variables/8. Type Sizes.md",
+    "dev/go/go basics/variables",
+    "dev/go/go basics",
+    "dev/go/Mocking.md",
     "dev/go/Dependency Injection.md",
+    "Untitled.md",
     "dev/go/Maps.md",
     "dev/go/Pointers and Errors.md",
     "dev/go/Structs, Methods, and Interfaces.md",
@@ -165,28 +183,10 @@
     "dev/algorithms/sorting/archives/Pasted image 20240822182502.png",
     "dev/algorithms/sorting/archives",
     "dev/algorithms/sorting/Insertion Sort.md",
-    "dev/algorithms/sorting/Selection Sort.md",
-    "dev/algorithms/sorting/Bubble Sort.md",
-    "dev/algorithms/search/Search.md",
     "dev/algorithms/sorting",
     "dev/algorithms/search",
-    "dev/algorithms/recursion/Recursion.md",
-    "dev/algorithms/problem-solving-patterns/patterns/Sliding Windows.md",
     "dev/algorithms/recursion",
-    "dev/algorithms/problem-solving-patterns/patterns/Frequency Counters.md",
-    "dev/algorithms/problem-solving-patterns/patterns/Divide and Conquer.md",
-    "dev/algorithms/problem-solving-patterns/patterns/Patterns.md",
-    "dev/algorithms/problem-solving-patterns/patterns/Multiple Pointers.md",
     "dev/algorithms/problem-solving-patterns/patterns",
-    "dev/algorithms/problem-solving-patterns/Problem Solving.md",
-    "dev/algorithms/big-o-notation/2. Arrays and Objects.md",
-    "dev/algorithms/problem-solving-patterns",
-    "dev/algorithms/big-o-notation/1. The Big O Notation.md",
-    "Time Complexity.md",
-    "dev/algorithms/big-o-notation",
-    "dev/docker/containers & networks/connecting containers/Containers & External Networks.md",
-    "dev/network/vps",
-    "dev/network",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",

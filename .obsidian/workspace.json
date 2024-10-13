@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/go basics/structs/Struct Methods in Go.md",
+                "file": "dev/go/go basics/structs/6. Empty Struct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/go basics/structs/Struct Methods in Go.md",
+                "file": "dev/go/go basics/structs/6. Empty Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/go basics/structs/Struct Methods in Go.md",
+                "file": "dev/go/go basics/structs/6. Empty Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/go basics/structs/Struct Methods in Go.md"
+                "file": "dev/go/go basics/structs/6. Empty Struct.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
+    "dev/go/go basics/structs/archives/Pasted image 20241014005145.png",
+    "dev/go/go basics/structs/5. Memory Layout.md",
+    "dev/go/go basics/structs/6. Empty Struct.md",
+    "dev/go/go basics/structs/archives/Pasted image 20241014004006.png",
+    "dev/go/go basics/structs/archives/Pasted image 20241014003533.png",
+    "dev/go/go basics/structs/archives",
+    "dev/go/go basics/structs/4. Struct Methods in Go.md",
     "dev/go/go basics/structs/1. Structs in go.md",
-    "dev/go/go basics/structs/Struct Methods in Go.md",
     "dev/go/Mocking.md",
     "dev/go/go basics/structs/3. Embedded Structs.md",
     "dev/go/go basics/structs/2. Nested Structs in Go.md",
@@ -176,9 +182,6 @@
     "dev/go/go basics",
     "dev/go/Dependency Injection.md",
     "Untitled.md",
-    "dev/go/Maps.md",
-    "dev/go/Pointers and Errors.md",
-    "dev/go/Structs, Methods, and Interfaces.md",
     "dev/go",
     "dev/algorithms/sorting/archives/Pasted image 20240822183240.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182515.png",
@@ -186,15 +189,12 @@
     "dev/algorithms/sorting/archives",
     "dev/algorithms/sorting",
     "dev/algorithms/search",
-    "dev/algorithms/recursion",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172058.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECS/archives/Pasted image 20240224172016.png"
+    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas"
   ]
 }

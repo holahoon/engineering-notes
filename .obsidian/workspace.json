@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd33a96cc554e60f",
+        "id": "847e18c765006763",
         "type": "tabs",
         "children": [
           {
-            "id": "0362638ea9f70683",
+            "id": "32217eff155685f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/go basics/functions/Defer.md",
+                "file": "dev/go/go basics/structs/Struct Methods in Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/go basics/functions/Defer.md",
+                "file": "dev/go/go basics/structs/Struct Methods in Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/go basics/functions/Defer.md",
+                "file": "dev/go/go basics/structs/Struct Methods in Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/go basics/functions/Defer.md"
+                "file": "dev/go/go basics/structs/Struct Methods in Go.md"
               }
             }
           }
@@ -146,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0362638ea9f70683",
+  "active": "32217eff155685f9",
   "lastOpenFiles": [
-    "dev/go/go basics/functions/Anonymous Functions.md",
+    "dev/go/go basics/structs/1. Structs in go.md",
+    "dev/go/go basics/structs/Struct Methods in Go.md",
+    "dev/go/Mocking.md",
+    "dev/go/go basics/structs/3. Embedded Structs.md",
+    "dev/go/go basics/structs/2. Nested Structs in Go.md",
+    "dev/go/go basics/structs/3. Anonymous Structs in Go.md",
+    "dev/go/go basics/structs",
+    "dev/go/go basics/functions/Closures.md",
+    "dev/go/go basics/functions/Block Scope.md",
     "dev/go/go basics/functions/Defer.md",
+    "dev/go/go basics/functions/Anonymous Functions.md",
     "dev/go/go basics/functions/Function as Values.md",
     "dev/go/go basics/functions/Explicit Returns.md",
     "dev/go/go basics/functions/Named Return Values.md",
@@ -165,28 +174,19 @@
     "dev/go/go basics/variables/8. Type Sizes.md",
     "dev/go/go basics/variables",
     "dev/go/go basics",
-    "dev/go/Mocking.md",
     "dev/go/Dependency Injection.md",
     "Untitled.md",
     "dev/go/Maps.md",
     "dev/go/Pointers and Errors.md",
     "dev/go/Structs, Methods, and Interfaces.md",
-    "dev/go/Arrays and Slices.md",
-    "dev/go/Understanding packages in Golang.md",
-    "dev/go/Named return values.md",
-    "dev/go/1. Install Go.md",
-    "dev/go/2. Hello, World.md",
-    "dev/algorithms/sorting/Merge Sort (intermediate algo).md",
     "dev/go",
     "dev/algorithms/sorting/archives/Pasted image 20240822183240.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182515.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182502.png",
     "dev/algorithms/sorting/archives",
-    "dev/algorithms/sorting/Insertion Sort.md",
     "dev/algorithms/sorting",
     "dev/algorithms/search",
     "dev/algorithms/recursion",
-    "dev/algorithms/problem-solving-patterns/patterns",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",

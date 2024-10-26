@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/go basics/structs/6. Empty Struct.md",
+                "file": "dev/go/go basics/conditionals/If.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/go basics/structs/6. Empty Struct.md",
+                "file": "dev/go/go basics/conditionals/If.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/go basics/structs/6. Empty Struct.md",
+                "file": "dev/go/go basics/conditionals/If.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/go basics/structs/6. Empty Struct.md"
+                "file": "dev/go/go basics/conditionals/If.md"
               }
             }
           }
@@ -148,9 +148,18 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
+    "dev/go/go basics/loops/While.md",
+    "dev/go/go basics/conditionals/If.md",
+    "dev/go/go basics/loops/For.md",
+    "dev/go/go basics/conditionals/The initial statement of an if block.md",
+    "dev/go/go basics/loops",
+    "dev/go/go basics/conditionals/Switch.md",
+    "dev/go/go basics/interfaces/1. Interfaces in Go.md",
+    "dev/go/go basics/Untitled.md",
+    "dev/go/go basics/structs/6. Empty Struct.md",
+    "dev/go/go basics/interfaces",
     "dev/go/go basics/structs/archives/Pasted image 20241014005145.png",
     "dev/go/go basics/structs/5. Memory Layout.md",
-    "dev/go/go basics/structs/6. Empty Struct.md",
     "dev/go/go basics/structs/archives/Pasted image 20241014004006.png",
     "dev/go/go basics/structs/archives/Pasted image 20241014003533.png",
     "dev/go/go basics/structs/archives",
@@ -169,32 +178,23 @@
     "dev/go/go basics/functions/Explicit Returns.md",
     "dev/go/go basics/functions/Named Return Values.md",
     "dev/go/go basics/functions/Ignoring Return Values.md",
-    "dev/go/go basics/conditionals/Switch.md",
     "dev/go/go basics/functions",
-    "dev/go/go basics/Untitled.md",
-    "dev/go/go basics/conditionals/The initial statement of an if block.md",
     "dev/go/go basics/variables/21. Runes and String Encoding.md",
     "dev/go/go basics/conditionals",
     "dev/go/go basics/variables/20. Formatting Strings in Go.md",
     "dev/go/go basics/variables/9. Which Type Should I Use?.md",
-    "dev/go/go basics/variables/8. Type Sizes.md",
     "dev/go/go basics/variables",
     "dev/go/go basics",
-    "dev/go/Dependency Injection.md",
-    "Untitled.md",
     "dev/go",
     "dev/algorithms/sorting/archives/Pasted image 20240822183240.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182515.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182502.png",
     "dev/algorithms/sorting/archives",
-    "dev/algorithms/sorting",
-    "dev/algorithms/search",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/ECR/archives/Pasted image 20240224172354.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas"
   ]
 }

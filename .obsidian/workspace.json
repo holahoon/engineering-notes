@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/go basics/conditionals/If.md",
+                "file": "dev/go/go basics/defer/Defer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/go/go basics/conditionals/If.md",
+                "file": "dev/go/go basics/defer/Defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/go/go basics/conditionals/If.md",
+                "file": "dev/go/go basics/defer/Defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/go/go basics/conditionals/If.md"
+                "file": "dev/go/go basics/defer/Defer.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
-    "dev/go/go basics/loops/While.md",
+    "dev/go/go basics/conditionals/Switch.md",
+    "dev/go/go basics/defer/Defer.md",
+    "dev/go/go basics/defer",
     "dev/go/go basics/conditionals/If.md",
+    "dev/go/go basics/loops/While.md",
     "dev/go/go basics/loops/For.md",
     "dev/go/go basics/conditionals/The initial statement of an if block.md",
     "dev/go/go basics/loops",
-    "dev/go/go basics/conditionals/Switch.md",
     "dev/go/go basics/interfaces/1. Interfaces in Go.md",
     "dev/go/go basics/Untitled.md",
     "dev/go/go basics/structs/6. Empty Struct.md",
@@ -182,14 +184,12 @@
     "dev/go/go basics/variables/21. Runes and String Encoding.md",
     "dev/go/go basics/conditionals",
     "dev/go/go basics/variables/20. Formatting Strings in Go.md",
-    "dev/go/go basics/variables/9. Which Type Should I Use?.md",
     "dev/go/go basics/variables",
     "dev/go/go basics",
     "dev/go",
     "dev/algorithms/sorting/archives/Pasted image 20240822183240.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182515.png",
     "dev/algorithms/sorting/archives/Pasted image 20240822182502.png",
-    "dev/algorithms/sorting/archives",
     "dev/ruby/archives/Pasted image 20240601203919.png",
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",

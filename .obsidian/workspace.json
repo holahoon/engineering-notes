@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/methods and interfaces/interfaces/The empty interface.md",
+                "file": "dev/go/methods and interfaces/interfaces/Readers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The empty interface"
+              "title": "Readers"
             }
           }
         ]
@@ -164,10 +164,15 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
-    "dev/go/methods and interfaces/interfaces/Interface values.md",
-    "dev/go/methods and interfaces/interfaces/The empty interface.md",
-    "dev/go/methods and interfaces/interfaces/Nil interface values.md",
+    "dev/go/methods and interfaces/interfaces/Errors.md",
+    "dev/go/methods and interfaces/interfaces/Readers.md",
+    "dev/go/methods and interfaces/interfaces/Stringers.md",
+    "dev/go/methods and interfaces/interfaces/Type switches.md",
+    "dev/go/methods and interfaces/interfaces/Type assertions.md",
     "dev/go/methods and interfaces/interfaces/Interfaces.md",
+    "dev/go/methods and interfaces/interfaces/The empty interface.md",
+    "dev/go/methods and interfaces/interfaces/Interface values.md",
+    "dev/go/methods and interfaces/interfaces/Nil interface values.md",
     "dev/go/methods and interfaces/interfaces",
     "dev/go/methods and interfaces/methods",
     "dev/go/methods and interfaces/methods/Pointer receivers.md",
@@ -189,13 +194,8 @@
     "dev/go/go basics/maps",
     "dev/go/go basics/slices/Slices exercies.md",
     "dev/go/go basics/slices/Slices.md",
-    "dev/go/go basics/slices/Appending to a slice.md",
     "dev/go/go basics/range",
-    "dev/go/go basics/slices/Nil Slices.md",
-    "dev/go/go basics/slices/Slices of slices.md",
-    "dev/go/go basics/slices/Creating a slice with make.md",
     "dev/go/go basics/slices",
-    "dev/go/go basics/arrays/Arrays.md",
     "dev/go/go basics/arrays",
     "dev/go/go basics/pointers",
     "dev/go/go basics/defer",

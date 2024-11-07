@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/methods and interfaces/interfaces/Readers.md",
+                "file": "dev/go/generics/Generic types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readers"
+              "title": "Generic types"
             }
           }
         ]
@@ -164,8 +164,14 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
-    "dev/go/methods and interfaces/interfaces/Errors.md",
+    "dev/go/generics/Type parameters.md",
+    "dev/go/generics/Generic types.md",
+    "dev/go/methods and interfaces/interfaces/Images.md",
+    "dev/go/generics",
+    "dev/go/go basics/slices/Slices exercies.md",
+    "dev/go/Arrays and Slices.md",
     "dev/go/methods and interfaces/interfaces/Readers.md",
+    "dev/go/methods and interfaces/interfaces/Errors.md",
     "dev/go/methods and interfaces/interfaces/Stringers.md",
     "dev/go/methods and interfaces/interfaces/Type switches.md",
     "dev/go/methods and interfaces/interfaces/Type assertions.md",
@@ -188,18 +194,12 @@
     "dev/go/go basics/structs/3. Embedded Structs.md",
     "dev/go/go basics/structs/3. Anonymous Structs in Go.md",
     "dev/go/go basics/structs/2. Nested Structs in Go.md",
-    "dev/go/go basics/structs/1. Structs in go.md",
-    "dev/go/go basics/structs/Pointers in structs.md",
-    "dev/go/go basics/range/Range.md",
     "dev/go/go basics/maps",
-    "dev/go/go basics/slices/Slices exercies.md",
-    "dev/go/go basics/slices/Slices.md",
     "dev/go/go basics/range",
     "dev/go/go basics/slices",
     "dev/go/go basics/arrays",
     "dev/go/go basics/pointers",
     "dev/go/go basics/defer",
-    "dev/go/go basics/loops",
     "dev/go/go basics/structs/archives/Pasted image 20241014005145.png",
     "dev/go/go basics/structs/archives/Pasted image 20241014004006.png",
     "dev/go/go basics/structs/archives/Pasted image 20241014003533.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/concurrency/5. Select.md",
+                "file": "dev/go/concurrency/7. sync.Mutex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Select"
+              "title": "7. sync.Mutex"
             }
           }
         ]
@@ -164,8 +164,13 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
-    "dev/go/concurrency/4. Range and Close.md",
+    "dev/go/concurrency/Exercise - Equivalent Binary Trees.md",
+    "dev/go/concurrency/7. sync.Mutex.md",
+    "dev/go/concurrency/archives/Pasted image 20241109162803.png",
+    "dev/go/concurrency/archives",
+    "dev/go/concurrency/6. Default Selection.md",
     "dev/go/concurrency/5. Select.md",
+    "dev/go/concurrency/4. Range and Close.md",
     "dev/go/concurrency/3. Buffered Channels.md",
     "dev/go/concurrency/2. Channels.md",
     "dev/go/concurrency/Untitled",
@@ -193,13 +198,9 @@
     "dev/go/methods and interfaces/methods/Methods.md",
     "dev/go/go basics/functions/Function Closures.md",
     "dev/go/methods and interfaces",
-    "dev/go/go basics/functions/Function as Values.md",
-    "dev/go/go basics/maps/Maps Exercise.md",
-    "dev/go/go basics/maps/Mutating Maps.md",
     "dev/go/go basics/maps",
     "dev/go/go basics/range",
     "dev/go/go basics/slices",
-    "dev/go/go basics/arrays",
     "dev/go/go basics/structs/archives/Pasted image 20241014005145.png",
     "dev/go/go basics/structs/archives/Pasted image 20241014004006.png",
     "dev/go/go basics/structs/archives/Pasted image 20241014003533.png",
@@ -210,7 +211,6 @@
     "dev/database/SQL/data normalization & relationships/data-relationship-diagram.canvas",
     "dev/database/SQL/data normalization & relationships/archives/Pasted image 20240229201541.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/App Runner/archives/Pasted image 20240224183141.png",
-    "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/EKS/archives/Pasted image 20240224182546.png",
     "dev/aws/certified solutions architect associate/Containers-ECS, Fargate, ECR, EKS/Untitled.canvas"
   ]
 }

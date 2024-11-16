@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/go/concurrency/7. sync.Mutex.md",
+                "file": "dev/algorithms/sorting/Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. sync.Mutex"
+              "title": "Quick Sort"
             }
           }
         ]
@@ -164,8 +164,12 @@
   },
   "active": "32217eff155685f9",
   "lastOpenFiles": [
-    "dev/go/concurrency/Exercise - Equivalent Binary Trees.md",
+    "dev/algorithms/sorting/Merge Sort.md",
+    "dev/algorithms/sorting/Quick Sort.md",
+    "dev/algorithms/sorting/Selection Sort.md",
     "dev/go/concurrency/7. sync.Mutex.md",
+    "Untitled.md",
+    "dev/go/concurrency/Exercise - Equivalent Binary Trees.md",
     "dev/go/concurrency/archives/Pasted image 20241109162803.png",
     "dev/go/concurrency/archives",
     "dev/go/concurrency/6. Default Selection.md",
@@ -191,12 +195,8 @@
     "dev/go/methods and interfaces/interfaces/Interfaces.md",
     "dev/go/methods and interfaces/interfaces/The empty interface.md",
     "dev/go/methods and interfaces/interfaces/Interface values.md",
-    "dev/go/methods and interfaces/interfaces/Nil interface values.md",
     "dev/go/methods and interfaces/interfaces",
     "dev/go/methods and interfaces/methods",
-    "dev/go/methods and interfaces/methods/Pointer receivers.md",
-    "dev/go/methods and interfaces/methods/Methods.md",
-    "dev/go/go basics/functions/Function Closures.md",
     "dev/go/methods and interfaces",
     "dev/go/go basics/maps",
     "dev/go/go basics/range",

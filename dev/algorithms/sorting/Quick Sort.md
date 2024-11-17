@@ -65,7 +65,7 @@ pivot(EXAMPLE) // 3
 // [2, 1, 3, 4, 8, 5, 7, 6] swapped and swapIndex = 3
 ```
 
-## Quicksort Pseudocode
+## Quick Sort Pseudocode
 - Call the pivot helper on the array.
 - When the helper returns to you the updated pivot index, recursively call the pivot helper on the subarray to the left of that index, and the subarray to the right of that index.
 - Your base case occurs when you consider a subarray with less than 2 elements.
@@ -82,6 +82,25 @@ quickSort([4,6,9,1,2,5,3])
 //  1
 ```
 
+### Code
+```javascript
+// ...swap function
+// ...pivot function
+
+function quickSort(arr, left = 0, right = arr.length - 1) {
+	if (left < right) {
+		let pivotIndex = pivot(arr, left, right);
+
+		// Left side of the pivotIndex
+		quickSort(arr, left, pivotIndex - 1);
+
+		// Right side of the pivotIndex
+		quickSort(arr, pivotIndex + 1, right);
+	}
+
+	return arr;
+}
+```
 ## Big O
 
 #### Time Complexity
